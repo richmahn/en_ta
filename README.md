@@ -13,3 +13,7 @@ Overview information for English translationAcademy.
 * https://git.door43.org/Door43/en-ta-gl
 * https://git.door43.org/Door43/en-ta-audio
 
+
+## Images
+
+Images that are included in tA should be no more than 600px wide.
