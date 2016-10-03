@@ -35,4 +35,4 @@ Images that are included in tA should be no more than 600px wide.
 
 ### Historical
 
-If you would like to see the original tranlsationAcademy workbench pages in DokuWiki, go to https://door43.org/en/ta/workbench.
+If you would like to see the deprecated tranlsationAcademy pages in DokuWiki, go to https://dw.door43.org/en/ta.  You can still see the workbench pages at https://dw.door43.org/en/ta/workbench.
