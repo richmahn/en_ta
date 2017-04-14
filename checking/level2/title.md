@@ -1,0 +1,1 @@
+Checking Level Two - Affirmation by Community

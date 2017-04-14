@@ -1,0 +1,1 @@
+How can church leaders affirm that the translation is good?

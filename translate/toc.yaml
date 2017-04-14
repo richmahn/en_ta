@@ -1,0 +1,266 @@
+title: "Table of Contents"
+sections:
+  - title: "Introduction"
+    sections:
+      - title: "Introduction to the Translation Manual"
+        link: translate_manual
+      - title: "Terms to Know"
+        link: translate_terms
+      - title: "What is Translation"
+        link: translate_whatis
+      - title: "More about Translation"
+        link: translate_more
+      - title: "Why We Translate the Bible"
+        link: translate_why
+      - title: "How to Aim Your Bible Translation"
+        link: translate_aim
+
+  -title: "Defining a Good Translation":
+    sections:
+      - title: "The Qualities of a Good Translation"
+        link: guidelines_intro
+        sections:
+          - title: "Create Clear Translations"
+            link: guidelines_clear
+          - title: "Create Natural Translations"
+            link: guidelines_natural
+          - title: "Create Accurate Translations"
+            link: guidelines_accurate
+          - title: "Create Church-Approved Translations"
+            link: guidelines_church_approved
+          - title: "Create Faithful Translations"
+            link: guidelines_faithful
+            sections:
+              - title: "Son of God and God the Father"
+                link: guidelines_sonofgod
+              - title: "Translating Son and Father"
+                link: guidelines_sonofgodprinciples
+          - title: "Create Authoritative Translations"
+            link: guidelines_authoritative
+          - title: "Create Historical Translations"
+            link: guidelines_historical
+          - title: "Create Equal Translations"
+            link: guidelines_equal
+          - title: "Create Collaborative Translations"
+            link: guidelines_collaborative
+          - title: "Create Ongoing Translations"
+            link: guidelines_ongoing
+
+  - title: "Meaning-Based Translation"
+    sections:
+      - title: "The Translation Process"
+        link: translate_process
+        sections:
+          - title: "Discover the Meaning of the Text"
+            link: translate_discover
+          - title: "Re-telling the Meaning"
+            link: translate_retell
+      - title: "Form and Meaning"
+        link: translate_fandm
+        sections:
+          - title: "The Importance of Form"
+            link: translate_form
+          - title: "Levels of Meaning"
+          link: translate_levels
+      - title: "Literal Translations"
+        link: translate_literal
+        sections:
+          - title: "Word for Word Substitution"
+            link: translate_wforw
+          - title: "Problems with Literal Translations"
+            link: translate_problem
+      - title: "Meaning-Based Translations"
+        link: translate_dynamic
+        sections:
+          - title: "Translate for Meaning"
+            link: translate_tform
+
+  - title: "Before Translating"
+    sections:
+      - title: "First Draft"
+        link: first_draft
+      - title: "Choosing a Translation Team"
+        link: choose_team
+        sections:
+          - title: "Translator Qualifications"
+            link: qualifications
+      - title: "Choosing What to Translate"
+        link: translation_difficulty
+      - title: "Choosing a Source Text"
+        link: translate_source_text
+        sections:
+          - title: "Copyrights, Licensing, and Source Texts"
+            link: translate_source_licensing
+          - title: "Source Texts and Version Numbers"
+            link: translate_source_version
+      - title: "Decisions for Writing Your Language"
+        link: writing_decisions
+        sections:
+          - title: "Alphabet/Orthography"
+            link: translate_alphabet
+          - title: "Alphabet Development"
+            link: translate_alphabet2
+      - title: "File Formats"
+        link: file_formats
+
+  - title: "How to Start Translating"
+    sections:
+      - title: "MAST Core Concepts"
+        link: mast
+      - title: "Help with Translating"
+        link: translate_help
+
+  - title: "Unlocked Bible Text"
+    sections:
+      - title: "The Original and Source Languages"
+        link: translate_original
+      - title: "Original Manuscripts"
+        link: translate_manuscripts
+      - title: "Structure of the Bible"
+        link: translate_bibleorg
+      - title: "Chapter and Verse Numbers"
+        link: translate_chapverse
+      - title: "Unlocked Literal Bible (ULB) and Unlocked Dynamic Bible (UDB) Formatting Signals"
+        link: translate_formatsignals
+      - title: "How to Use the ULB and UDB when Translating the Bible"
+        link: translate_useulbudb
+
+  - title: "Use the translationHelps when Translating"
+    sections:
+      - title: "Notes with Links"
+        link: resources_links
+      - title: "Using the translationNotes"
+        link: resources_types
+        sections:
+          - title: "Connecting Statement and General Information in the Notes"
+            link: resources_connect
+          - title: "Notes with Definitions"
+            link: resources_def
+          - title: "Notes that Explain"
+            link: resources_eplain
+          - title: "Notes with Synonyms and Equivalent Phrases"
+            link: resources_synequi
+          - title: "Notes with Alternate Translations (AT)"
+            link: resources_alter
+          - title: "Notes that Clarify the UDB Translation"
+            link: resources_clarify
+          - title: "Notes that have Alternate Meanings"
+            link: resources_alterm
+          - title: "Notes with Probable or Possible Meanings"
+            link: resources_porp
+          - title: "Notes that Identify Figures of Speech"
+            link: resources_fofs
+          - title: "Notes that Identify Indirect and Direct Quotes"
+            link: resources_iordquote
+          - title: "Notes for Long ULB Phrases"
+            link: resources_long
+          - title: "Using translationWords"
+            link: resources_words
+          - title: "Using translationQuestions"
+            link: resources_questions
+
+#Just-in-Time Learning Modules
+#  1. Figures of Speech
+#    2. Figures of Speech
+#    2. Apostrophe
+#    2. Doublet
+#    2. Euphemism
+#    2. Extended Metaphor
+#    2. Hendiadys
+#    2. Hyperbole
+#    2. Idiom
+#    2. Irony
+#    2. Litotes
+#    2. Merism
+#    2. Metaphor
+#    2. Metonymy
+#    2. Parallelism
+#    2. Personification
+#    2. Predictive Past
+#    2. Rhetorical Question
+#    2. Simile
+#    2. Synecdoche
+#  1. Grammar
+#    2. Grammar Topics
+#    2. Abstract Nouns
+#    2. Active or Passive
+#    2. Distinguishing versus Informing or Reminding
+#    2. Double Negatives
+#    2. Ellipsis
+#    2. Forms of You
+#    2. Forms of 'You' - Dual/Plural
+#    2. Forms of 'You' - Singular
+#    2. Generic Noun Phrases
+#    2. Go and Come
+#    2. Nominal Adjectives
+#    2. Order of Events
+#    2. Parts of Speech
+#    2. Possession
+#    2. Verbs
+#    2. When Masculine Words Include Women
+#    2. Word Order
+#  1. Pronouns
+#    2. Pronouns
+#    2. First, Second or Third Person
+#    2. Exclusive "We"
+#    2. Inclusive "We" delete - combined with figs_exclusive
+#    2. Forms of "You" - Formal or Informal
+#    2. Forms of 'You' - Singular to a Crowd
+#    2. Reflexive Pronouns
+#    2. Pronouns - When to Use Them
+#  1. Sentences
+#    2. Sentence Structure
+#    2. Sentence Types
+#    2. Information Structure
+#    2. Statements - Other Uses
+#    2. Imperatives - Other Uses
+#    2. Exclamations
+#  1. Quotes
+#    2. Quotations and Quote Margins
+#    2. Direct and Indirect Quotations
+#    2. Quote Markings
+#    2. Quotes within Quotes
+#  1. Writing Styles (Discourse)
+#    2. Writing Styles
+#    2. Background Information
+#    2. Connecting Words
+#    2. End of Story
+#    2. Hypothetical Situations
+#    2. Introduction of a New Event
+#    2. Introduction of New and Old Participants
+#    2. Parables
+#    2. Poetry
+#    2. Proverbs
+#    2. Symbolic Language
+#    2. Symbolic Prophecy
+#  1. Translation Issues
+#    2. Textual Variants
+#    2. Verse Bridges
+#  1. Unknowns
+#    2. Translate Unknowns
+#    2. Copy or Borrow Words
+#    2. How to Translate Names
+#    2. Assumed Knowledge and Implicit Information
+#    2. Making Assumed Knowledge and Implicit Information Explicit
+#    2. When to Keep Information Implicit
+#    2. Biblical Distance
+#    2. Biblical Volume
+#    2. Biblical Weight
+#    2. Biblical Money
+#    2. Hebrew Months
+#    2. Numbers
+#    2. Ordinal Numbers
+#    2. Fractions
+#    2. Symbolic Action
+#  1. Biblical Imagery
+#    2. Biblical Imagery
+#    2. Biblical Imagery - Common Metonymies
+#    2. Biblical Imagery - Common Patterns
+#    2. Biblical Imagery - Animals
+#    2. Biblical Imagery - Body Parts and Human Qualities
+#    2. Biblical Imagery - Farming
+#    2. Biblical Imagery - Human Behavior
+#    2. Biblical Imagery - Man-made Objects
+#    2. Biblical Imagery - Natural Phenomena
+#    2. Biblical Imagery - Plants
+#    2. Biblical Imagery - Cultural Models

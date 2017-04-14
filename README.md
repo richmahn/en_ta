@@ -15,20 +15,6 @@ If you want to download English translationAcademy to use, go here: https://unfo
 
 ## Contributing
 
-### tA Manuals
-
-The source repositories for the various manuals are:
-
-* https://git.door43.org/Door43/en-ta-intro
-* https://git.door43.org/Door43/en-ta-process
-* https://git.door43.org/Door43/en-ta-translate-vol1
-* https://git.door43.org/Door43/en-ta-translate-vol2
-* https://git.door43.org/Door43/en-ta-checking-vol1
-* https://git.door43.org/Door43/en-ta-checking-vol2
-* https://git.door43.org/Door43/en-ta-gl
-* https://git.door43.org/Door43/en-ta-audio
-
-
 ### Images
 
 Images that are included in tA should be no more than 600px wide.
