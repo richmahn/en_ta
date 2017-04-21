@@ -3,7 +3,7 @@ These items need review
 After converting tA into a [Resource Container](http://resource-container.readthedocs.io/en/latest/) 
 there were a few items that need to be manually reviewed for correctness.
 
-##intro
+## intro
 `/open-license` has links to legacy tA modules.
 Should we remove these links entirely since they are deprecated?
 
