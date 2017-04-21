@@ -1,0 +1,1 @@
+Checking Level One - Affirmation by Translation Team

@@ -1,0 +1,1 @@
+Why are some verse numbers combined, such as “3-5” or “17-18”?

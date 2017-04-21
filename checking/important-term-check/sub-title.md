@@ -1,0 +1,1 @@
+How can I check for the important words in my translation?
