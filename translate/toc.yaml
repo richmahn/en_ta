@@ -3,362 +3,362 @@ sections:
   - title: "Introduction"
     sections:
       - title: "Introduction to the Translation Manual"
-        link: translate_manual
+        link: translate-manual
       - title: "Terms to Know"
-        link: translate_terms
+        link: translate-terms
       - title: "What is Translation"
-        link: translate_whatis
+        link: translate-whatis
       - title: "More about Translation"
-        link: translate_more
+        link: translate-more
       - title: "Why We Translate the Bible"
-        link: translate_why
+        link: translate-why
       - title: "How to Aim Your Bible Translation"
-        link: translate_aim
+        link: translate-aim
   - title: "Defining a Good Translation"
     sections:
       - title: "The Qualities of a Good Translation"
-        link: guidelines_intro
+        link: guidelines-intro
         sections:
           - title: "Create Clear Translations"
-            link: guidelines_clear
+            link: guidelines-clear
           - title: "Create Natural Translations"
-            link: guidelines_natural
+            link: guidelines-natural
           - title: "Create Accurate Translations"
-            link: guidelines_accurate
+            link: guidelines-accurate
           - title: "Create Church-Approved Translations"
-            link: guidelines_church_approved
+            link: guidelines-church-approved
           - title: "Create Faithful Translations"
-            link: guidelines_faithful
+            link: guidelines-faithful
             sections:
               - title: "Son of God and God the Father"
-                link: guidelines_sonofgod
+                link: guidelines-sonofgod
               - title: "Translating Son and Father"
-                link: guidelines_sonofgodprinciples
+                link: guidelines-sonofgodprinciples
           - title: "Create Authoritative Translations"
-            link: guidelines_authoritative
+            link: guidelines-authoritative
           - title: "Create Historical Translations"
-            link: guidelines_historical
+            link: guidelines-historical
           - title: "Create Equal Translations"
-            link: guidelines_equal
+            link: guidelines-equal
           - title: "Create Collaborative Translations"
-            link: guidelines_collaborative
+            link: guidelines-collaborative
           - title: "Create Ongoing Translations"
-            link: guidelines_ongoing
+            link: guidelines-ongoing
   - title: "Meaning-Based Translation"
     sections:
       - title: "The Translation Process"
-        link: translate_process
+        link: translate-process
         sections:
           - title: "Discover the Meaning of the Text"
-            link: translate_discover
+            link: translate-discover
           - title: "Re-telling the Meaning"
-            link: translate_retell
+            link: translate-retell
       - title: "Form and Meaning"
-        link: translate_fandm
+        link: translate-fandm
         sections:
           - title: "The Importance of Form"
-            link: translate_form
+            link: translate-form
           - title: "Levels of Meaning"
-            link: translate_levels
+            link: translate-levels
       - title: "Literal Translations"
-        link: translate_literal
+        link: translate-literal
         sections:
           - title: "Word for Word Substitution"
-            link: translate_wforw
+            link: translate-wforw
           - title: "Problems with Literal Translations"
-            link: translate_problem
+            link: translate-problem
       - title: "Meaning-Based Translations"
-        link: translate_dynamic
+        link: translate-dynamic
         sections:
           - title: "Translate for Meaning"
-            link: translate_tform
+            link: translate-tform
   - title: "Before Translating"
     sections:
       - title: "First Draft"
-        link: first_draft
+        link: first-draft
       - title: "Choosing a Translation Team"
-        link: choose_team
+        link: choose-team
         sections:
           - title: "Translator Qualifications"
             link: qualifications
       - title: "Choosing What to Translate"
-        link: translation_difficulty
+        link: translation-difficulty
       - title: "Choosing a Source Text"
-        link: translate_source_text
+        link: translate-source-text
         sections:
           - title: "Copyrights, Licensing, and Source Texts"
-            link: translate_source_licensing
+            link: translate-source-licensing
           - title: "Source Texts and Version Numbers"
-            link: translate_source_version
+            link: translate-source-version
       - title: "Decisions for Writing Your Language"
-        link: writing_decisions
+        link: writing-decisions
         sections:
           - title: "Alphabet/Orthography"
-            link: translate_alphabet
+            link: translate-alphabet
           - title: "Alphabet Development"
-            link: translate_alphabet2
+            link: translate-alphabet2
       - title: "File Formats"
-        link: file_formats
+        link: file-formats
   - title: "How to Start Translating"
     sections:
       - title: "MAST Core Concepts"
         link: mast
       - title: "Help with Translating"
-        link: translate_help
+        link: translate-help
   - title: "Unlocked Bible Text"
     sections:
       - title: "The Original and Source Languages"
-        link: translate_original
+        link: translate-original
       - title: "Original Manuscripts"
-        link: translate_manuscripts
+        link: translate-manuscripts
       - title: "Structure of the Bible"
-        link: translate_bibleorg
+        link: translate-bibleorg
       - title: "Chapter and Verse Numbers"
-        link: translate_chapverse
+        link: translate-chapverse
       - title: "Unlocked Literal Bible (ULB) and Unlocked Dynamic Bible (UDB) Formatting Signals"
-        link: translate_formatsignals
+        link: translate-formatsignals
       - title: "How to Use the ULB and UDB when Translating the Bible"
-        link: translate_useulbudb
+        link: translate-useulbudb
   - title: "Use the translationHelps when Translating"
     sections:
       - title: "Notes with Links"
-        link: resources_links
+        link: resources-links
       - title: "Using the translationNotes"
-        link: resources_types
+        link: resources-types
         sections:
           - title: "Connecting Statement and General Information in the Notes"
-            link: resources_connect
+            link: resources-connect
           - title: "Notes with Definitions"
-            link: resources_def
+            link: resources-def
           - title: "Notes that Explain"
-            link: resources_eplain
+            link: resources-eplain
           - title: "Notes with Synonyms and Equivalent Phrases"
-            link: resources_synequi
+            link: resources-synequi
           - title: "Notes with Alternate Translations (AT)"
-            link: resources_alter
+            link: resources-alter
           - title: "Notes that Clarify the UDB Translation"
-            link: resources_clarify
+            link: resources-clarify
           - title: "Notes that have Alternate Meanings"
-            link: resources_alterm
+            link: resources-alterm
           - title: "Notes with Probable or Possible Meanings"
-            link: resources_porp
+            link: resources-porp
           - title: "Notes that Identify Figures of Speech"
-            link: resources_fofs
+            link: resources-fofs
           - title: "Notes that Identify Indirect and Direct Quotes"
-            link: resources_iordquote
+            link: resources-iordquote
           - title: "Notes for Long ULB Phrases"
-            link: resources_long
+            link: resources-long
           - title: "Using translationWords"
-            link: resources_words
+            link: resources-words
           - title: "Using translationQuestions"
-            link: resources_questions
+            link: resources-questions
   - title: "Just-in-Time Learning Modules"
     sections:
       - title: "Figures of Speech"
         sections:
           - title: "Figures of Speech"
-            link: figs_intro
+            link: figs-intro
           - title: "Apostrophe"
-            link: figs_apostrophe
+            link: figs-apostrophe
           - title: "Doublet"
-            link: figs_doublet
+            link: figs-doublet
           - title: "Euphemism"
-            link: figs_euphemism
+            link: figs-euphemism
           - title: "Extended Metaphor"
-            link: figs_exmetaphor
+            link: figs-exmetaphor
           - title: "Hendiadys"
-            link: figs_hendiadys
+            link: figs-hendiadys
           - title: "Hyperbole"
-            link: figs_hyperbole
+            link: figs-hyperbole
           - title: "Idiom"
-            link: figs_idiom
+            link: figs-idiom
           - title: "Irony"
-            link: figs_irony
+            link: figs-irony
           - title: "Litotes"
-            link: figs_litotes
+            link: figs-litotes
           - title: "Merism"
-            link: figs_merism
+            link: figs-merism
           - title: "Metaphor"
-            link: figs_metaphor
+            link: figs-metaphor
           - title: "Metonymy"
-            link: figs_metonymy
+            link: figs-metonymy
           - title: "Parallelism"
-            link: figs_parallelism
+            link: figs-parallelism
           - title: "Personification"
-            link: figs_personification
+            link: figs-personification
           - title: "Predictive Past"
-            link: figs_pastforfuture
+            link: figs-pastforfuture
           - title: "Rhetorical Question"
-            link: figs_rquestion
+            link: figs-rquestion
           - title: "Simile"
-            link: figs_simile
+            link: figs-simile
           - title: "Synecdoche"
-            link: figs_synecdoche
+            link: figs-synecdoche
       - title: "Grammar"
         sections:
           - title: "Grammar Topics"
-            link: figs_grammar
+            link: figs-grammar
           - title: "Abstract Nouns"
-            link: figs_abstractnouns
+            link: figs-abstractnouns
           - title: "Active or Passive"
-            link: figs_activepassive
+            link: figs-activepassive
           - title: "Distinguishing versus Informing or Reminding"
-            link: figs_distinguish
+            link: figs-distinguish
           - title: "Double Negatives"
-            link: figs_doublenegatives
+            link: figs-doublenegatives
           - title: "Ellipsis"
-            link: figs_ellipsis
+            link: figs-ellipsis
           - title: "Forms of You"
-            link: figs_you
+            link: figs-you
           - title: "Forms of 'You' - Dual/Plural"
-            link: figs_youdual
+            link: figs-youdual
           - title: "Forms of 'You' - Singular"
-            link: figs_yousingular
+            link: figs-yousingular
           - title: "Generic Noun Phrases"
-            link: figs_genericnoun
+            link: figs-genericnoun
           - title: "Go and Come"
-            link: figs_go
+            link: figs-go
           - title: "Nominal Adjectives"
-            link: figs_nominaladj
+            link: figs-nominaladj
           - title: "Order of Events"
-            link: figs_events
+            link: figs-events
           - title: "Parts of Speech"
-            link: figs_partsofspeech
+            link: figs-partsofspeech
           - title: "Possession"
-            link: figs_possession
+            link: figs-possession
           - title: "Verbs"
-            link: figs_verbs
+            link: figs-verbs
           - title: "When Masculine Words Include Women"
-            link: figs_gendernotations
+            link: figs-gendernotations
           - title: "Word Order"
-            link: figs_order
+            link: figs-order
       - title: "Pronouns"
         sections:
           - title: "Pronouns"
-            link: figs_pronouns
+            link: figs-pronouns
           - title: "First, Second or Third Person"
-            link: figs_123person
+            link: figs-123person
           - title: "Exclusive 'We'"
-            link: figs_figs_exclusive
+            link: figs-figs-exclusive
           - title: "Forms of 'You' - Formal or Informal"
-            link: figs_youformal
+            link: figs-youformal
           - title: "Forms of 'You' - Singular to a Crowd"
-            link: figs_youcrowd
+            link: figs-youcrowd
           - title: "Reflexive Pronouns"
-            link: figs_rpronouns
+            link: figs-rpronouns
           - title: "Pronouns - When to Use Them"
-            link: writing_pronouns
+            link: writing-pronouns
       - title: "Sentences"
         sections:
           - title: "Sentence Structure"
-            link: figs_sentences
+            link: figs-sentences
           - title: "Information Structure"
-            link: figs_infostructure
+            link: figs-infostructure
           - title: "Sentence Types"
-            link: figs_sentencetypes
+            link: figs-sentencetypes
             sections:
               - title: "Statements - Other Uses"
-                link: figs_declarative
+                link: figs-declarative
               - title: "Imperatives - Other Uses"
-                link: figs_imperative
+                link: figs-imperative
               - title: "Exclamations"
-                link: figs_exlamations
+                link: figs-exlamations
       - title: "Quotes"
         sections:
           - title: "Quotations and Quote Margins"
-            link: writing_quotations
+            link: writing-quotations
           - title: "Direct and Indirect Quotations"
-            link: figs_quotations
+            link: figs-quotations
           - title: "Quote Markings"
-            link: figs_quotemarks
+            link: figs-quotemarks
           - title: "Quotes within Quotes"
-            link: figs_quotesinquotes
+            link: figs-quotesinquotes
       - title: "Writing Styles (Discourse)"
         sections:
           - title: "Writing Styles"
-            link: writing_intro
+            link: writing-intro
           - title: "Background Information"
-            link: writing_background
+            link: writing-background
           - title: "Connecting Words"
-            link: writing_connectingwords
+            link: writing-connectingwords
           - title: "End of Story"
-            link: writing_endofstory
+            link: writing-endofstory
           - title: "Hypothetical Situations"
-            link: figs_hypo
+            link: figs-hypo
           - title: "Introduction of a New Event"
-            link: writing_newevent
+            link: writing-newevent
           - title: "Introduction of New and Old Participants"
-            link: writing_participants
+            link: writing-participants
           - title: "Parables"
-            link: figs_parables
+            link: figs-parables
           - title: "Poetry"
-            link: writing_poetry
+            link: writing-poetry
           - title: "Proverbs"
-            link: writing_proverbs
+            link: writing-proverbs
           - title: "Symbolic Language"
-            link: writing_symlanguage
+            link: writing-symlanguage
           - title: "Symbolic Prophecy"
-            link: writing_apocalypticwriting
+            link: writing-apocalypticwriting
       - title: "Translation Issues"
         sections:
           - title: "Textual Variants"
-            link: translate_textvariants
+            link: translate-textvariants
           - title: "Verse Bridges"
-            link: translate_versebridge
+            link: translate-versebridge
       - title: "Unknowns"
         sections:
           - title: "Translate Unknowns"
-            link: translate_unknown
+            link: translate-unknown
           - title: "Copy or Borrow Words"
-            link: translate_transliterate
+            link: translate-transliterate
           - title: "How to Translate Names"
-            link: translate_names
+            link: translate-names
           - title: "Assumed Knowledge and Implicit Information"
-            link: figs_explicit
+            link: figs-explicit
           - title: "Making Assumed Knowledge and Implicit Information Explicit"
-            link: figs_explicitinfo
+            link: figs-explicitinfo
           - title: "When to Keep Information Implicit"
-            link: figs_extrainfo
+            link: figs-extrainfo
           - title: "Biblical Distance"
-            link: translate_bdistance
+            link: translate-bdistance
           - title: "Biblical Volume"
-            link: translate_bvolume
+            link: translate-bvolume
           - title: "Biblical Weight"
-            link: translate_bweight
+            link: translate-bweight
           - title: "Biblical Money"
-            link: translate_bmoney
+            link: translate-bmoney
           - title: "Hebrew Months"
-            link: translate_hebrewmonths
+            link: translate-hebrewmonths
           - title: "Numbers"
-            link: translate_numbers
+            link: translate-numbers
           - title: "Ordinal Numbers"
-            link: translate_ordinal
+            link: translate-ordinal
           - title: "Fractions"
-            link: translate_fraction
+            link: translate-fraction
           - title: "Symbolic Action"
-            link: translate_symaction
+            link: translate-symaction
       - title: "Biblical Imagery"
         sections:
           - title: "Biblical Imagery"
-            link: translate_bita
+            link: translate-bita
           - title: "Biblical Imagery - Common Metonymies"
-            link: translate_bita_part2
+            link: translate-bita-part2
           - title: "Biblical Imagery - Common Patterns"
-            link: translate_bita_part1
+            link: translate-bita-part1
             sections:
               - title: "Biblical Imagery - Animals"
-                link: translate_bita_animals
+                link: translate-bita-animals
               - title: "Biblical Imagery - Body Parts and Human Qualities"
-                link: translate_bita_humanqualities
+                link: translate-bita-humanqualities
               - title: "Biblical Imagery - Farming"
-                link: translate_bita_farming
+                link: translate-bita-farming
               - title: "Biblical Imagery - Human Behavior"
-                link: translate_bita_humanbehavior
+                link: translate-bita-humanbehavior
               - title: "Biblical Imagery - Man-made Objects"
-                link: translate_bita_manmade
+                link: translate-bita-manmade
               - title: "Biblical Imagery - Natural Phenomena"
-                link: translate_bita_phenom
+                link: translate-bita-phenom
               - title: "Biblical Imagery - Plants"
-                link: translate_bita_plants
+                link: translate-bita-plants
           - title: "Biblical Imagery - Cultural Models"
-            link: translate_bita_part3
+            link: translate-bita-part3
