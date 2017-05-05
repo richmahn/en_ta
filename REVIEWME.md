@@ -20,15 +20,15 @@ unknown tA module 'gl' in link: https://git.door43.org/Door43/en-ta-gl/src/maste
 `/figs-exclusive` has image links.
 Are we going to move tA images into their own Resource Container?
 ```
-skipped link: http://cdn.door43.org/ta/jpg/vocabulary/we_us_inclusive.jpg
-skipped link: http://cdn.door43.org/ta/jpg/vocabulary/we_us_exclusive.jpg
+skipped link: https://cdn.door43.org/ta/jpg/vocabulary/we_us_inclusive.jpg
+skipped link: https://cdn.door43.org/ta/jpg/vocabulary/we_us_exclusive.jpg
 ```
 
 `/figs-inclusive` has image links.
 Are we going to move tA images into their own Resource Container?
 ```
-skipped link: http://cdn.door43.org/ta/jpg/vocabulary/we_us_inclusive.jpg
-skipped link: http://cdn.door43.org/ta/jpg/vocabulary/we_us_exclusive.jpg
+skipped link: https://cdn.door43.org/ta/jpg/vocabulary/we_us_inclusive.jpg
+skipped link: https://cdn.door43.org/ta/jpg/vocabulary/we_us_exclusive.jpg
 ```
 
 `/guidelines-sonofgodprinciples` has link to tW pdf download.
@@ -44,19 +44,19 @@ skipped link: https://unfoldingword.org/en/?resource=translation-words
 `/translate-original` has link to image.
 Are we going to move tA images into their own Resource Container?
 ```
-skipped link: http://cdn.door43.org/ta/jpg/ol2sl2sl2tl_small_600-174.png
+skipped link: https://cdn.door43.org/ta/jpg/ol2sl2sl2tl_small_600-174.png
 ```
 
 `/translate-process` has link to image.
 Are we going to move tA images into their own Resource Container?
 ```
-skipped link: http://cdn.door43.org/ta/jpg/translation_process.png
+skipped link: https://cdn.door43.org/ta/jpg/translation_process.png
 ```
 
 `/translate-source-version` has link to image.
 Are we going to move tA images into their own Resource Container?
 ```
-skipped link: http://cdn.door43.org/ta/jpg/versioning.jpg
+skipped link: https://cdn.door43.org/ta/jpg/versioning.jpg
 ```
 
 `/writing-apocalypticwriting` has link to tW pdf download.

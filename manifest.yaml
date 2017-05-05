@@ -41,7 +41,7 @@ projects:
         path: './intro'
         sort: 0
         title: 'Introduction to translationAcademy'
-        versification: 'ufw'
+        versification:
     -
         categories:
             - 'ta'
@@ -49,7 +49,7 @@ projects:
         path: './process'
         sort: 1
         title: 'Process Manual'
-        versification: 'ufw'
+        versification:
     -
         categories:
             - 'ta'
@@ -57,7 +57,7 @@ projects:
         path: './translate'
         sort: 2
         title: 'Translation Manual'
-        versification: 'ufw'
+        versification:
     -
         categories:
             - 'ta'
@@ -65,4 +65,4 @@ projects:
         path: './checking'
         sort: 3
         title: 'Checking Manual'
-        versification: 'ufw'
+        versification:
