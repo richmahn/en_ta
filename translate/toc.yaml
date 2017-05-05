@@ -14,7 +14,7 @@ sections:
         link: translate_why
       - title: "How to Aim Your Bible Translation"
         link: translate_aim
-  -title: "Defining a Good Translation":
+  - title: "Defining a Good Translation"
     sections:
       - title: "The Qualities of a Good Translation"
         link: guidelines_intro
@@ -59,7 +59,7 @@ sections:
           - title: "The Importance of Form"
             link: translate_form
           - title: "Levels of Meaning"
-          link: translate_levels
+            link: translate_levels
       - title: "Literal Translations"
         link: translate_literal
         sections:
@@ -154,211 +154,211 @@ sections:
             link: resources_questions
   - title: "Just-in-Time Learning Modules"
     sections:
-	  - title: "Figures of Speech"
-	    sections:
+      - title: "Figures of Speech"
+        sections:
           - title: "Figures of Speech"
             link: figs_intro
-		  - title: "Apostrophe"
-		    link: figs_apostrophe
-		  - title: "Doublet"
-		    link: figs_doublet
-		  - title: "Euphemism"
-		    link: figs_euphemism
-		  - title: "Extended Metaphor"
-		    link: figs_exmetaphor
-		  - title: "Hendiadys"
-		    link: figs_hendiadys
-		  - title: "Hyperbole"
-		    link: figs_hyperbole
-		  - title: "Idiom"
-		    link: figs_idiom
-		  - title: "Irony"
-		    link: figs_irony
-		  - title: "Litotes"
-		    link: figs_litotes
-		  - title: "Merism"
-		    link: figs_merism
-		  - title: "Metaphor"
-		    link: figs_metaphor
-		  - title: "Metonymy"
-		    link: figs_metonymy
-		  - title: "Parallelism"
-		    link: figs_parallelism
-		  - title: "Personification"
-		    link: figs_personification
-		  - title: "Predictive Past"
-		    link: figs_pastforfuture
-		  - title: "Rhetorical Question"
-		    link: figs_rquestion
-		  - title: "Simile"
-		    link: figs_simile
-		  - title: "Synecdoche"
-		    link: figs_synecdoche
-	  - title: "Grammar"
-	    sections:
-		  - title: "Grammar Topics"
-		    link: figs_grammar
-		  - title: "Abstract Nouns"
-		    link: figs_abstractnouns
-		  - title: "Active or Passive"
-		    link: figs_activepassive
-		  - title: "Distinguishing versus Informing or Reminding"
-		    link: figs_distinguish
-		  - title: "Double Negatives"
-		    link: figs_doublenegatives
-		  - title: "Ellipsis"
-		    link: figs_ellipsis
-		  - title: "Forms of You"
-		    link: figs_you
-		  - title: "Forms of 'You' - Dual/Plural"
-		    link: figs_youdual
-		  - title: "Forms of 'You' - Singular"
-		    link: figs_yousingular
-		  - title: "Generic Noun Phrases"
-		    link: figs_genericnoun
-		  - title: "Go and Come"
-		    link: figs_go
-		  - title: "Nominal Adjectives"
-		    link: figs_nominaladj
-		  - title: "Order of Events"
-		    link: figs_events
-		  - title: "Parts of Speech"
-		    link: figs_partsofspeech
-		  - title: "Possession"
-		    link: figs_possession
-		  - title: "Verbs"
-		    link: figs_verbs
-		  - title: "When Masculine Words Include Women"
-		    link: figs_gendernotations
-		  - title: "Word Order"
-		    link: figs_order
-	  - title: "Pronouns"
-	    sections:
-		  - title: "Pronouns"
-		    link: figs_pronouns
-		  - title: "First, Second or Third Person"
-		    link: figs_123person
-		  - title: "Exclusive "We""
-		    link: figs_figs_exclusive
-		  - title: "Forms of "You" - Formal or Informal"
-		    link: figs_youformal
-		  - title: "Forms of 'You' - Singular to a Crowd"
-		    link: figs_youcrowd
-		  - title: "Reflexive Pronouns"
-		    link: figs_rpronouns
-		  - title: "Pronouns - When to Use Them"
-		    link: writing_pronouns
-	  - title: "Sentences"
-	    sections:
-		  - title: "Sentence Structure"
-		    link: figs_sentences
-		  - title: "Information Structure"
-		    link: figs_infostructure
-		  - title: "Sentence Types"
-		    link: figs_sentencetypes
-		    sections:
-			  - title: "Statements - Other Uses"
-			    link: figs_declarative
-			  - title: "Imperatives - Other Uses"
-			    link: figs_imperative
-			  - title: "Exclamations"
-			    link: figs_exlamations
-	  - title: "Quotes"
-	    sections:
-		  - title: "Quotations and Quote Margins"
-		    link: writing_quotations
-		  - title: "Direct and Indirect Quotations"
-		    link: figs_quotations
-		  - title: "Quote Markings"
-		    link: figs_quotemarks
-		  - title: "Quotes within Quotes"
-		    link: figs_quotesinquotes
-	  - title: "Writing Styles (Discourse)"
-	    sections:
-		  - title: "Writing Styles"
-		    link: writing_intro
-		  - title: "Background Information"
-		    link: writing_background
-		  - title: "Connecting Words"
-		    link: writing_connectingwords
-		  - title: "End of Story"
-		    link: writing_endofstory
-		  - title: "Hypothetical Situations"
-		    link: figs_hypo
-		  - title: "Introduction of a New Event"
-		    link: writing_newevent
-		  - title: "Introduction of New and Old Participants"
-		    link: writing_participants
-		  - title: "Parables"
-		    link: figs_parables
-		  - title: "Poetry"
-		    link: writing_poetry
-		  - title: "Proverbs"
-		    link: writing_proverbs
-		  - title: "Symbolic Language"
-		    link: writing_symlanguage
-		  - title: "Symbolic Prophecy"
-		    link: writing_apocalypticwriting
-	  - title: "Translation Issues"
-	    sections:
-		  - title: "Textual Variants"
-		    link: translate_textvariants
-		  - title: "Verse Bridges"
-		    link: translate_versebridge
-	  - title: "Unknowns"
-	    sections:
-		  - title: "Translate Unknowns"
-		    link: translate_unknown
-		  - title: "Copy or Borrow Words"
-		    link: translate_transliterate
-		  - title: "How to Translate Names"
-		    link: translate_names
-		  - title: "Assumed Knowledge and Implicit Information"
-		    link: figs_explicit
-		  - title: "Making Assumed Knowledge and Implicit Information Explicit"
-		    link: figs_explicitinfo
-		  - title: "When to Keep Information Implicit"
-		    link: figs_extrainfo
-		  - title: "Biblical Distance"
-		    link: translate_bdistance
-		  - title: "Biblical Volume"
-		    link: translate_bvolume
-		  - title: "Biblical Weight"
-		    link: translate_bweight
-		  - title: "Biblical Money"
-		    link: translate_bmoney
-		  - title: "Hebrew Months"
-		    link: translate_hebrewmonths
-		  - title: "Numbers"
-		    link: translate_numbers
-		  - title: "Ordinal Numbers"
-		    link: translate_ordinal
-		  - title: "Fractions"
-		    link: translate_fraction
-		  - title: "Symbolic Action"
-		    link: translate_symaction
-	  - title: "Biblical Imagery"
-	    sections:
-		  - title: "Biblical Imagery"
-		    link: translate_bita
-		  - title: "Biblical Imagery - Common Metonymies"
-		    link: translate_bita_part2
-		  - title: "Biblical Imagery - Common Patterns"
-		    link: translate_bita_part1
-		    sections:
-			  - title: "Biblical Imagery - Animals"
-			    link: translate_bita_animals
-			  - title: "Biblical Imagery - Body Parts and Human Qualities"
-			    link: translate_bita_humanqualities
-			  - title: "Biblical Imagery - Farming"
-			    link: translate_bita_farming
-			  - title: "Biblical Imagery - Human Behavior"
-			    link: translate_bita_humanbehavior
-			  - title: "Biblical Imagery - Man-made Objects"
-			    link: translate_bita_manmade
-			  - title: "Biblical Imagery - Natural Phenomena"
-			    link: translate_bita_phenom
-			  - title: "Biblical Imagery - Plants"
-			    link: translate_bita_plants
-		  - title: "Biblical Imagery - Cultural Models"
-		    link: translate_bita_part3
+          - title: "Apostrophe"
+            link: figs_apostrophe
+          - title: "Doublet"
+            link: figs_doublet
+          - title: "Euphemism"
+            link: figs_euphemism
+          - title: "Extended Metaphor"
+            link: figs_exmetaphor
+          - title: "Hendiadys"
+            link: figs_hendiadys
+          - title: "Hyperbole"
+            link: figs_hyperbole
+          - title: "Idiom"
+            link: figs_idiom
+          - title: "Irony"
+            link: figs_irony
+          - title: "Litotes"
+            link: figs_litotes
+          - title: "Merism"
+            link: figs_merism
+          - title: "Metaphor"
+            link: figs_metaphor
+          - title: "Metonymy"
+            link: figs_metonymy
+          - title: "Parallelism"
+            link: figs_parallelism
+          - title: "Personification"
+            link: figs_personification
+          - title: "Predictive Past"
+            link: figs_pastforfuture
+          - title: "Rhetorical Question"
+            link: figs_rquestion
+          - title: "Simile"
+            link: figs_simile
+          - title: "Synecdoche"
+            link: figs_synecdoche
+      - title: "Grammar"
+        sections:
+          - title: "Grammar Topics"
+            link: figs_grammar
+          - title: "Abstract Nouns"
+            link: figs_abstractnouns
+          - title: "Active or Passive"
+            link: figs_activepassive
+          - title: "Distinguishing versus Informing or Reminding"
+            link: figs_distinguish
+          - title: "Double Negatives"
+            link: figs_doublenegatives
+          - title: "Ellipsis"
+            link: figs_ellipsis
+          - title: "Forms of You"
+            link: figs_you
+          - title: "Forms of 'You' - Dual/Plural"
+            link: figs_youdual
+          - title: "Forms of 'You' - Singular"
+            link: figs_yousingular
+          - title: "Generic Noun Phrases"
+            link: figs_genericnoun
+          - title: "Go and Come"
+            link: figs_go
+          - title: "Nominal Adjectives"
+            link: figs_nominaladj
+          - title: "Order of Events"
+            link: figs_events
+          - title: "Parts of Speech"
+            link: figs_partsofspeech
+          - title: "Possession"
+            link: figs_possession
+          - title: "Verbs"
+            link: figs_verbs
+          - title: "When Masculine Words Include Women"
+            link: figs_gendernotations
+          - title: "Word Order"
+            link: figs_order
+      - title: "Pronouns"
+        sections:
+          - title: "Pronouns"
+            link: figs_pronouns
+          - title: "First, Second or Third Person"
+            link: figs_123person
+          - title: "Exclusive 'We'"
+            link: figs_figs_exclusive
+          - title: "Forms of 'You' - Formal or Informal"
+            link: figs_youformal
+          - title: "Forms of 'You' - Singular to a Crowd"
+            link: figs_youcrowd
+          - title: "Reflexive Pronouns"
+            link: figs_rpronouns
+          - title: "Pronouns - When to Use Them"
+            link: writing_pronouns
+      - title: "Sentences"
+        sections:
+          - title: "Sentence Structure"
+            link: figs_sentences
+          - title: "Information Structure"
+            link: figs_infostructure
+          - title: "Sentence Types"
+            link: figs_sentencetypes
+            sections:
+              - title: "Statements - Other Uses"
+                link: figs_declarative
+              - title: "Imperatives - Other Uses"
+                link: figs_imperative
+              - title: "Exclamations"
+                link: figs_exlamations
+      - title: "Quotes"
+        sections:
+          - title: "Quotations and Quote Margins"
+            link: writing_quotations
+          - title: "Direct and Indirect Quotations"
+            link: figs_quotations
+          - title: "Quote Markings"
+            link: figs_quotemarks
+          - title: "Quotes within Quotes"
+            link: figs_quotesinquotes
+      - title: "Writing Styles (Discourse)"
+        sections:
+          - title: "Writing Styles"
+            link: writing_intro
+          - title: "Background Information"
+            link: writing_background
+          - title: "Connecting Words"
+            link: writing_connectingwords
+          - title: "End of Story"
+            link: writing_endofstory
+          - title: "Hypothetical Situations"
+            link: figs_hypo
+          - title: "Introduction of a New Event"
+            link: writing_newevent
+          - title: "Introduction of New and Old Participants"
+            link: writing_participants
+          - title: "Parables"
+            link: figs_parables
+          - title: "Poetry"
+            link: writing_poetry
+          - title: "Proverbs"
+            link: writing_proverbs
+          - title: "Symbolic Language"
+            link: writing_symlanguage
+          - title: "Symbolic Prophecy"
+            link: writing_apocalypticwriting
+      - title: "Translation Issues"
+        sections:
+          - title: "Textual Variants"
+            link: translate_textvariants
+          - title: "Verse Bridges"
+            link: translate_versebridge
+      - title: "Unknowns"
+        sections:
+          - title: "Translate Unknowns"
+            link: translate_unknown
+          - title: "Copy or Borrow Words"
+            link: translate_transliterate
+          - title: "How to Translate Names"
+            link: translate_names
+          - title: "Assumed Knowledge and Implicit Information"
+            link: figs_explicit
+          - title: "Making Assumed Knowledge and Implicit Information Explicit"
+            link: figs_explicitinfo
+          - title: "When to Keep Information Implicit"
+            link: figs_extrainfo
+          - title: "Biblical Distance"
+            link: translate_bdistance
+          - title: "Biblical Volume"
+            link: translate_bvolume
+          - title: "Biblical Weight"
+            link: translate_bweight
+          - title: "Biblical Money"
+            link: translate_bmoney
+          - title: "Hebrew Months"
+            link: translate_hebrewmonths
+          - title: "Numbers"
+            link: translate_numbers
+          - title: "Ordinal Numbers"
+            link: translate_ordinal
+          - title: "Fractions"
+            link: translate_fraction
+          - title: "Symbolic Action"
+            link: translate_symaction
+      - title: "Biblical Imagery"
+        sections:
+          - title: "Biblical Imagery"
+            link: translate_bita
+          - title: "Biblical Imagery - Common Metonymies"
+            link: translate_bita_part2
+          - title: "Biblical Imagery - Common Patterns"
+            link: translate_bita_part1
+            sections:
+              - title: "Biblical Imagery - Animals"
+                link: translate_bita_animals
+              - title: "Biblical Imagery - Body Parts and Human Qualities"
+                link: translate_bita_humanqualities
+              - title: "Biblical Imagery - Farming"
+                link: translate_bita_farming
+              - title: "Biblical Imagery - Human Behavior"
+                link: translate_bita_humanbehavior
+              - title: "Biblical Imagery - Man-made Objects"
+                link: translate_bita_manmade
+              - title: "Biblical Imagery - Natural Phenomena"
+                link: translate_bita_phenom
+              - title: "Biblical Imagery - Plants"
+                link: translate_bita_plants
+          - title: "Biblical Imagery - Cultural Models"
+            link: translate_bita_part3
