@@ -1,0 +1,1 @@
+What are connecting words for, and how do I translate them?

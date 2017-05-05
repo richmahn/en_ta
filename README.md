@@ -13,26 +13,58 @@ Please use the [issue queue](https://git.door43.org/Door43/en-ta/issues) to prov
 
 If you want to download English translationAcademy to use, go here: https://unfoldingword.org/academy/.  tA is also included in [tS](http://ufw.io/ts) and [tC](http://ufw.io/tc).
 
-## Contributing
+## Contributing or Translating
 
-### tA Manuals
+### Explanation of the content file layout
 
-The source repositories for the various manuals are:
+Each manual has it's own directory in this repository (for example, the Checking Manual is in the checking directory). The content of the files are in a hybrid YAML/markdown format, beginning with a YAML header followed by the body of the article in markdown.
 
-* https://git.door43.org/Door43/en-ta-intro
-* https://git.door43.org/Door43/en-ta-process
-* https://git.door43.org/Door43/en-ta-translate-vol1
-* https://git.door43.org/Door43/en-ta-translate-vol2
-* https://git.door43.org/Door43/en-ta-checking-vol1
-* https://git.door43.org/Door43/en-ta-checking-vol2
-* https://git.door43.org/Door43/en-ta-gl
-* https://git.door43.org/Door43/en-ta-audio
+YAML is a markup language that is compact and easy to read. The YAML header bounded on the top and bottom by `---`. Each line within the header is a key-value pair, with the key and the value separated by a colon. Because the key is used by the publishing process, __it should never be translated or changed.__ Some of the values can be translated, and those are enumerated below in the instructions for translating.
 
+Following the YAML header is the body of the article, which uses a format called "markdown." If you aren't familiar with markdown, you may find this [markdown tutorial](http://www.markdowntutorial.com/) helpful. Also, this README file, the one you are reading now, is written in markdown.
+
+### Before you get started translating
+
+* DO NOT RENAME ANY FILES. The name of the file is the same as the slug and is used to link the file to other files.
+
+* If you do any translation work, be sure to put your name in the `CONTRIBUTORS.md` file.
+
+* The `LICENSE.md` file does not need to be translated or modified.
 
 ### Images
 
 Images that are included in tA should be no more than 600px wide.
 
-### Historical
+### Instructions for translating translationAcademy
+
+__The instructions for translating `meta.yaml` (metadata) and `toc.yaml` (table of contents) are included in the header of those files.__
+
+The first step is to __fork this repository.__ When you do this, change the name of the repository to start with your language code rather than
+`en`.
+
+When translating the files for each manual:
+
+* In the YAML header, you are free to translate the values following the `title`, `question` and `credits` keys. __DO NOT TRANSLATE THE KEYS__.
+None of the other values should be translated. They contain slugs that are used to identify this article and to link it to other articles.
+
+* Translating hyperlinks: Hyperlinks (links to other articles or to other pages on the internet) follow this pattern,
+
+```
+[text to display](http://www.example.com)
+```
+
+You can translate the "text to display" inside the square brackets but not the web address that follows inside the parentheses.
+
+You are free to add additional pages. In order for the new page to be included when tA is published, all of the following conditions need to be satisfied:
+
+1. You must create a directory in one of the manual directories (like the translate directory) that has the short name of the module you want to write.  For example, to create a new module on "testing" in the Translation Manual, you will want to put the file in "translate/testing/01.md".
+
+1. The file must be included in the table of contents, `toc.yaml` for the appropriate manual.
+
+1. The value of the slug in the YAML header and the file name (without the extension) must be the same as the directory name.
+
+1. The slug must be unique, and not used in any of the other tA repositories. This is a requirement so that it is possible to create unambiguous links to articles in other tA manuals.
+
+## Historical
 
 If you would like to see the deprecated tranlsationAcademy pages in DokuWiki, go to https://dw.door43.org/en/ta.  You can still see the workbench pages at https://dw.door43.org/en/ta/workbench.
