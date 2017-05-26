@@ -7,8 +7,8 @@ dublin_core:
         - 'Wycliffe Associates'
     creator: 'Wycliffe Associates'
     description: ''
-    format: 'text/usfm'
-    identifier: 'ulb'
+    format: 'text/markdown'
+    identifier: 'bible'
     issued: '2016-04-19'
     language:
         identifier: 'en'
