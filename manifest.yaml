@@ -8,7 +8,7 @@ dublin_core:
     creator: 'Wycliffe Associates'
     description: ''
     format: 'text/markdown'
-    identifier: 'bible'
+    identifier: 'ta'
     issued: '2016-04-19'
     language:
         identifier: 'en'
