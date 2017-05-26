@@ -3,30 +3,30 @@ sections:
   - title: "Introduction to Checking"
     sections:
       - title: "Introduction to the Checking Manual"
-        link: intro_check
+        link: intro-check
       - title: "Introduction to Translation Checking"
-        link: intro_checking
+        link: intro-checking
       - title: "Introduction to the Checking Levels"
-        link: intro_levels
+        link: intro-levels
       - title: "The Goal of Checking"
-        link: goal_checking
+        link: goal-checking
   
   - title: "Types of Checks"
     sections:
       - title: "Self Check"
-        link: self_check
+        link: self-check
       - title: "Peer Check"
-        link: peer_check
+        link: peer-check
       - title: "translationWord Check"
-        link: important_term_check
+        link: important-term-check
       - title: "Accuracy Check"
-        link: accuracy_check
+        link: accuracy-check
       - title: "Language Community Check"
-        link: language_community_check
+        link: language-community-check
       - title: "Church Leader Check"
-        link: church_leader_check
+        link: church-leader-check
       - title: "Other Methods"
-        link: other_methods
+        link: other-methods
 
   - title: "What to Check For"
     sections:
@@ -41,18 +41,18 @@ sections:
       - title: "Complete Translation"
         link: complete
       - title: "Self-Assessment Rubric"
-        link: self_assessment
+        link: self-assessment
 
   - title: "Defining Church Authority"
     sections:
       - title: "Checking Authority and Process"
-        link: authority_process
+        link: authority-process
       - title: "Authority Level 1"
-        link: authority_level1
+        link: authority-level1
       - title: "Authority Level 2"
-        link: authority_level2
+        link: authority-level2
       - title: "Authority Level 3"
-        link: authority_level3
+        link: authority-level3
   
   - title: "Checking Process"
     sections:
@@ -60,42 +60,42 @@ sections:
         link: level1
         sections:
           - title: "Level 1 Affirmation"
-            link: level1_affirm
+            link: level1-affirm
       - title: "Checking Level Two - Affirmation by Community"
         link: level2
         sections:
           - title: "Language Community Evaluation Questions"
-            link: community_evaluation
+            link: community-evaluation
           - title: "Level 2 Affirmation"
             link: good
       - title: "Checking Level Three - Affirmation by Church Leadership"
         link: level3
         sections:
           - title: "Questions for Checking on Level Three"
-            link: level3_questions
+            link: level3-questions
           - title: "Level 3 Approval"
-            link: level3_approval
+            link: level3-approval
   
   - title: "Introduction to Translation Checking - Part 2"
-    link: vol2_intro
+    link: vol2-intro
   - title: "Steps in Checking a Translation"
-    link: vol2_steps
+    link: vol2-steps
     sections:
       - title: "Back Translation"
-        link: vol2_backtranslation
+        link: vol2-backtranslation
         sections:
           - title: "The Purpose of the Back Translation"
-            link: vol2_backtranslation_purpose
+            link: vol2-backtranslation-purpose
           - title: "The Back Translator"
-            link: vol2_backtranslation_who
+            link: vol2-backtranslation-who
           - title: "Kinds of Back Translations"
-            link: vol2_backtranslation_kinds
+            link: vol2-backtranslation-kinds
           - title: "Kinds of Written Back Translations"
-            link: vol2_backtranslation_written
+            link: vol2-backtranslation-written
           - title: "Guidelines for Creating a Good Back Translation"
-            link: vol2_backtranslation_guidelines
+            link: vol2-backtranslation-guidelines
       - title: "Types of Things to Check"
-        link: vol2_things_to_check
+        link: vol2-things-to-check
       - title: "How to Do a Formatting Check"
         link: formatting
         sections:

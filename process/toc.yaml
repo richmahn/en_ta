@@ -3,39 +3,39 @@ sections:
   - title: "1. Getting Started"
     sections:
       - title: "Introduction to the Process Manual"
-        link: process_manual
+        link: process-manual
 
   - title: "2. Setting Up a Translation Team"
     sections:
       - title: "Setting Up A Translation Team"
-        link: setup_team
+        link: setup-team
 
   - title: "3. Translating"
     sections:
       - title: "Training Before Translation Begins"
-        link: pretranslation_training
+        link: pretranslation-training
       - title: "Choosing a Translation Platform"
         link: platforms
       - title: "Setting Up translationStudio"
-        link: setup_ts
+        link: setup-ts
 
   - title: "4. Checking"
     sections:
       - title: "Training Before Checking Begins"
-        link: prechecking_training
+        link: prechecking-training
       - title: "How to Check"
-        link: required_checking
+        link: required-checking
 
   - title: "5. Publishing"
     sections:
       - title: "Introduction to Publishing"
-        link: intro_publishing
+        link: intro-publishing
       - title: "Source Text Process"
-        link: source_text_process
+        link: source-text_process
 
   - title: "6. Distributing"
     sections:
       - title: "Introduction to Distribution"
-        link: intro_share
+        link: intro-share
       - title: "How to Share Content"
-        link: share_content
+        link: share-content
