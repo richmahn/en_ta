@@ -1,1 +1,0 @@
-How can I use MAST methodology to translate?

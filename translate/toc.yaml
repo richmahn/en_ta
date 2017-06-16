@@ -101,8 +101,6 @@ sections:
         link: file-formats
   - title: "How to Start Translating"
     sections:
-      - title: "MAST Core Concepts"
-        link: mast
       - title: "Help with Translating"
         link: translate-help
   - title: "Unlocked Bible Text"
