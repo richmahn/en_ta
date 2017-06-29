@@ -1,1 +1,1 @@
-What is hyperbole?
+What are hyperboles? What are generalizations?

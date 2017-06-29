@@ -1,1 +1,0 @@
-MAST Core Concepts
