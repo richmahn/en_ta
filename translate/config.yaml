@@ -885,7 +885,6 @@ writing-apocalypticwriting:
   dependencies:
     - writing-intro
     - writing-symlanguage
-    - 'rc://en/tw/dict/bible/kt/prophet'
 writing-background:
   recommended:
     - writing-connectingwords
