@@ -10,8 +10,6 @@ sections:
         link: translate-whatis
       - title: "More about Translation"
         link: translate-more
-      - title: "Why We Translate the Bible"
-        link: translate-why
       - title: "How to Aim Your Bible Translation"
         link: translate-aim
   - title: "Defining a Good Translation"
