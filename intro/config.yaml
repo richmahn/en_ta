@@ -5,7 +5,6 @@ finding-answers:
     - ta-intro
 gl-strategy:
   recommended:
-    - gl-translate
     - finding-answers
   dependencies:
     - uw-intro

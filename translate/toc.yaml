@@ -10,8 +10,6 @@ sections:
         link: translate-whatis
       - title: "More about Translation"
         link: translate-more
-      - title: "Why We Translate the Bible"
-        link: translate-why
       - title: "How to Aim Your Bible Translation"
         link: translate-aim
   - title: "Defining a Good Translation"
@@ -237,7 +235,7 @@ sections:
           - title: "First, Second or Third Person"
             link: figs-123person
           - title: "Exclusive 'We'"
-            link: figs-figs-exclusive
+            link: figs-exclusive
           - title: "Forms of 'You' - Formal or Informal"
             link: figs-youformal
           - title: "Forms of 'You' - Singular to a Crowd"
@@ -260,7 +258,7 @@ sections:
               - title: "Imperatives - Other Uses"
                 link: figs-imperative
               - title: "Exclamations"
-                link: figs-exlamations
+                link: figs-exclamations
       - title: "Quotes"
         sections:
           - title: "Quotations and Quote Margins"
@@ -338,25 +336,25 @@ sections:
       - title: "Biblical Imagery"
         sections:
           - title: "Biblical Imagery"
-            link: translate-bita
+            link: biblicalimageryta
           - title: "Biblical Imagery - Common Metonymies"
-            link: translate-bita-part2
+            link: bita-part2
           - title: "Biblical Imagery - Common Patterns"
-            link: translate-bita-part1
+            link: bita-part1
             sections:
               - title: "Biblical Imagery - Animals"
                 link: translate-bita-animals
               - title: "Biblical Imagery - Body Parts and Human Qualities"
-                link: translate-bita-humanqualities
+                link: bita-hq
               - title: "Biblical Imagery - Farming"
-                link: translate-bita-farming
+                link: bita-farming
               - title: "Biblical Imagery - Human Behavior"
-                link: translate-bita-humanbehavior
+                link: bita-humanbehavior
               - title: "Biblical Imagery - Man-made Objects"
-                link: translate-bita-manmade
+                link: bita-manmade
               - title: "Biblical Imagery - Natural Phenomena"
-                link: translate-bita-phenom
+                link: bita-phenom
               - title: "Biblical Imagery - Plants"
-                link: translate-bita-plants
+                link: bita-plants
           - title: "Biblical Imagery - Cultural Models"
-            link: translate-bita-part3
+            link: bita-part3
