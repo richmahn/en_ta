@@ -338,25 +338,25 @@ sections:
       - title: "Biblical Imagery"
         sections:
           - title: "Biblical Imagery"
-            link: translate-bita
+            link: biblicalimageryta
           - title: "Biblical Imagery - Common Metonymies"
-            link: translate-bita-part2
+            link: bita-part2
           - title: "Biblical Imagery - Common Patterns"
-            link: translate-bita-part1
+            link: bita-part1
             sections:
               - title: "Biblical Imagery - Animals"
                 link: translate-bita-animals
               - title: "Biblical Imagery - Body Parts and Human Qualities"
-                link: translate-bita-humanqualities
+                link: bita-hq
               - title: "Biblical Imagery - Farming"
-                link: translate-bita-farming
+                link: bita-farming
               - title: "Biblical Imagery - Human Behavior"
-                link: translate-bita-humanbehavior
+                link: bita-humanbehavior
               - title: "Biblical Imagery - Man-made Objects"
-                link: translate-bita-manmade
+                link: bita-manmade
               - title: "Biblical Imagery - Natural Phenomena"
-                link: translate-bita-phenom
+                link: bita-phenom
               - title: "Biblical Imagery - Plants"
-                link: translate-bita-plants
+                link: bita-plants
           - title: "Biblical Imagery - Cultural Models"
-            link: translate-bita-part3
+            link: bita-part3
