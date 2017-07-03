@@ -31,7 +31,7 @@ sections:
       - title: "Introduction to Publishing"
         link: intro-publishing
       - title: "Source Text Process"
-        link: source-text_process
+        link: source-text-process
 
   - title: "6. Distributing"
     sections:
