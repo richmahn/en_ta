@@ -598,18 +598,18 @@ bita-manmade:
 bita-part1:
   recommended: []
   dependencies:
-    - translate-bita
+    - biblicalimageryta
     - figs-metaphor
     - figs-simile
 bita-part2:
   recommended: []
   dependencies:
-    - translate-bita
+    - biblicalimageryta
     - figs-metonymy
 bita-part3:
   recommended: []
   dependencies:
-    - translate-bita
+    - biblicalimageryta
 bita-phenom:
   recommended: []
   dependencies:
