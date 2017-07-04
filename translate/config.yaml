@@ -36,7 +36,7 @@ figs-declarative:
     - figs-sentencetypes
 figs-distinguish:
   recommended:
-    - figs-doublenegative
+    - figs-doublenegatives
   dependencies:
     - figs-partsofspeech
     - figs-sentences
@@ -79,7 +79,7 @@ figs-exclusive:
     - figs-pronouns
 figs-exmetaphor:
   recommended:
-    - translate-bita-part1
+    - bita-part1
   dependencies:
     - figs-metaphor
     - figs-simile
@@ -558,34 +558,34 @@ biblicalimageryta:
     - figs-intro
     - figs-metaphor
     - figs-metonymy
-translate-bita-animals:
+bita-animals:
   recommended: []
   dependencies:
-    - translate-bita-part1
+    - bita-part1
     - figs-metaphor
     - figs-metonymy
 bita-farming:
   recommended: []
   dependencies:
-    - translate-bita-part1
+    - bita-part1
     - figs-metaphor
     - figs-metonymy
 bita-humanbehavior:
   recommended: []
   dependencies:
-    - translate-bita-part1
+    - bita-part1
     - figs-metaphor
     - figs-metonymy
 bita-hq:
   recommended: []
   dependencies:
-    - translate-bita-part1
+    - bita-part1
     - figs-metaphor
     - figs-metonymy
 bita-manmade:
   recommended: []
   dependencies:
-    - translate-bita-part1
+    - bita-part1
     - figs-metaphor
     - figs-metonymy
 bita-part1:
@@ -606,13 +606,13 @@ bita-part3:
 bita-phenom:
   recommended: []
   dependencies:
-    - translate-bita-part1
+    - bita-part1
     - figs-metaphor
     - figs-metonymy
 bita-plants:
   recommended: []
   dependencies:
-    - translate-bita-part1
+    - bita-part1
     - figs-metaphor
     - figs-metonymy
 translate-bmoney:

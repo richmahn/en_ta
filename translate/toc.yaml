@@ -343,7 +343,7 @@ sections:
             link: bita-part1
             sections:
               - title: "Biblical Imagery - Animals"
-                link: translate-bita-animals
+                link: bita-animals
               - title: "Biblical Imagery - Body Parts and Human Qualities"
                 link: bita-hq
               - title: "Biblical Imagery - Farming"
