@@ -180,6 +180,8 @@ sections:
             link: figs-metonymy
           - title: "Parallelism"
             link: figs-parallelism
+          - title: "Parallelism with the Same Meaning" 
+            link: figs-synonparallelism
           - title: "Personification"
             link: figs-personification
           - title: "Predictive Past"
@@ -236,6 +238,8 @@ sections:
             link: figs-123person
           - title: "Exclusive 'We'"
             link: figs-exclusive
+          - title: "Inclusive 'We'"
+            link: figs-inclusive
           - title: "Forms of 'You' - Formal or Informal"
             link: figs-youformal
           - title: "Forms of 'You' - Singular to a Crowd"
