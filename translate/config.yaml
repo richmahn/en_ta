@@ -523,12 +523,12 @@ resources-words:
   dependencies:
     - resources-porp
     - translate-help
-translate-why:
+translate-aim:
   recommended:
     - guidelines-intro
   dependencies:
     - translate-whatis
-    - translate-aim
+    - translate-why
 translate-alphabet:
   recommended:
     - translate-alphabet2
