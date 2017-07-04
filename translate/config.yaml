@@ -323,6 +323,13 @@ level1:
     - translation-difficulty
     - translate-source-text
     - writing-decisions
+first-draft:
+  recommended:
+    - translate-help
+  dependencies:
+    - translation-difficulty
+    - translate-source-text
+    - writing-decisions
 guidelines-accurate:
   recommended:
     - guidelines-clear
