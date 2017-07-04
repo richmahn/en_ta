@@ -236,10 +236,8 @@ sections:
             link: figs-pronouns
           - title: "First, Second or Third Person"
             link: figs-123person
-          - title: "Exclusive 'We'"
+          - title: "Exclusive and Inclusive 'We'"
             link: figs-exclusive
-          - title: "Inclusive 'We'"
-            link: figs-inclusive
           - title: "Forms of 'You' - Formal or Informal"
             link: figs-youformal
           - title: "Forms of 'You' - Singular to a Crowd"
