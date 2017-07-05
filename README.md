@@ -37,7 +37,7 @@ Following the YAML header is the body of the article, which uses a format called
     * Click on the green "Commit Changes" button at the bottom of the page to save the changes.
 
 * The `LICENSE.md` file does not need to be translated or modified.
-* The 'README.md' does not need to be translated or modified.
+* The `README.md` does not need to be translated or modified.
 
 ### Images
 
