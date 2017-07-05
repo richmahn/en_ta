@@ -27,9 +27,17 @@ Following the YAML header is the body of the article, which uses a format called
 
 * DO NOT RENAME ANY FILES. The name of the file is the same as the slug and is used to link the file to other files.
 
-* If you do any translation work, be sure to put your name in the `CONTRIBUTORS.md` file.
+* If you do any translation work, be sure to put your name in the `manifest.yaml` file.
+    * Left click on the file found in the root of the repository.
+    * Click on the pencil icon to edit the file.
+    * You will add the name(s) under the 'contributor' list heading (see line 5 and under)
+    * Click on the end of line 7 (after 'Wycliffe Associates') and then press the enter key to start a new line.
+    * Type in a dash then space then the name of a contributor between single quote marks.
+    * Type in additional names as necessary.
+    * Click on the green "Commit Changes" button at the bottom of the page to save the changes.
 
 * The `LICENSE.md` file does not need to be translated or modified.
+* The 'README.md' does not need to be translated or modified.
 
 ### Images
 
