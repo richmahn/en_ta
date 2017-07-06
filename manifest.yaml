@@ -9,20 +9,20 @@ dublin_core:
     description: ''
     format: 'text/markdown'
     identifier: 'ta'
-    issued: '2016-04-19'
+    issued: '2017-07-06'
     language:
         identifier: 'en'
         title: 'English'
         direction: 'ltr'
-    modified: '2017-04-13'
-    publisher: 'Door43'
+    modified: '2017-07-06'
+    publisher: 'unfoldingWord'
     relation:
     rights: 'CC BY-SA 4.0'
     source:
         -
             identifier: 'ta'
             language: 'en'
-            version: 'pre6'
+            version: '6'
     subject: ''
     title: 'translationAcademy'
     type: 'man'
