@@ -22,11 +22,11 @@ dublin_core:
         -
             identifier: 'ta'
             language: 'en'
-            version: '6'
+            version: '7'
     subject: ''
     title: 'translationAcademy'
     type: 'man'
-    version: '6'
+    version: '7'
 
 checking:
     checking_entity:
