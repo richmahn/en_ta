@@ -17,6 +17,10 @@ dublin_core:
     modified: '2017-07-06'
     publisher: 'unfoldingWord'
     relation:
+        - 'en/ulb'
+        - 'en/udb'
+        - 'en/tn'
+        - 'en/tw'
     rights: 'CC BY-SA 4.0'
     source:
         -
