@@ -1,8 +1,8 @@
 media:
   -
    identifier: 'pdf'
-   version: '1'
+   version: '{latest}'
    contributor: []
-   url: 'http://cdn.door43.org/en/ta/v8/pdf/en_ta_v8.pdf'
+   url: 'http://cdn.door43.org/en/ta/v{latest}/pdf/en_ta_v{latest}.pdf'
 
 projects: []
