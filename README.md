@@ -15,6 +15,18 @@ If you want to download English translationAcademy to use, go here: https://unfo
 
 ## Contributing or Translating
 
+### Contributions are always welcomed. 
+The translationAcademy is a collaborative work between several organzations. We seek those that would like to contribute to the work. Presently there is an Oversight Team that is responsible for the maintenance of the content. The members of this team represent various organizations and are experienced Biblical Scholars, Linguists and Bible Translators.
+All contributions will be reviewed by the Oversight Team.
+
+#### Submit an Issue
+Submitting an issue is the preferred way to let the Oversight Team know of errors in the content. When you find an error, please note where the error is, if possible copy the error, open an Issue, paste in the error, then offer a correction, and then submit the Issue.
+
+#### Pull Request
+To contribute to the content of the translationAcademy please fork a copy of the repository, make your changes and then submit a Pull Request to the repository.
+The Oversight Team will then review the PR and then decide on the merging of the content into the master repository.
+
+
 ### Explanation of the content file layout
 
 Each manual has it's own directory in this repository (for example, the Checking Manual is in the checking directory). The content of the files are in a hybrid YAML/markdown format, beginning with a YAML header followed by the body of the article in markdown.
