@@ -20,7 +20,7 @@ The translationAcademy is a collaborative work between several organzations. We 
 All contributions will be reviewed by the Oversight Team.
 
 #### Submit an Issue
-Submitting an issue is the preferred way to let the Oversight Team know of errors in the content. When you find an error, please note where the error is, if possible copy the error, open an Issue, paste in the error, then offer a correction, and then submit the Issue.
+Submitting an issue is the preferred way to let the Oversight Team know of errors in the content. When you find an error, please note where the error is, if possible copy the error, open an [Issue](https://git.door43.org/Door43/en_ta/issues), paste in the error, then offer a correction, and then submit the Issue.
 
 #### Pull Request
 To contribute to the content of the translationAcademy please fork a copy of the repository, make your changes and then submit a Pull Request to the repository.
