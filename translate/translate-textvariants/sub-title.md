@@ -1,1 +1,1 @@
-Why does the ULB have missing or added verses, and should I translate them?
+Why does the ULT have missing or added verses, and should I translate them?
