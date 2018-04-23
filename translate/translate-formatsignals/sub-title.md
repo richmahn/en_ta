@@ -1,1 +1,1 @@
-What do some of the formatting signals in the ULB and UDB show?
+What do some of the formatting signals in the ULT and UST show?

@@ -1,1 +1,1 @@
-Why do some translationNotes not have any ULB text at the beginning?
+Why do some translationNotes not have any ULT text at the beginning?

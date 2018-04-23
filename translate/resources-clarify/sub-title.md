@@ -1,1 +1,1 @@
-Why do some translationNotes have quotes from the UDB?
+Why do some translationNotes have quotes from the UST?

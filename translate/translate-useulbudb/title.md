@@ -1,1 +1,1 @@
-How to Use the ULB and UDB when Translating the Bible
+How to Use the ULT and UST when Translating the Bible

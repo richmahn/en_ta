@@ -111,9 +111,9 @@ sections:
         link: translate-bibleorg
       - title: "Chapter and Verse Numbers"
         link: translate-chapverse
-      - title: "Unlocked Literal Bible (ULB) and Unlocked Dynamic Bible (UDB) Formatting Signals"
+      - title: "unfoldingWord Literal Text (ULT) and unfoldingWord Simplified Text (UST) Formatting Signals"
         link: translate-formatsignals
-      - title: "How to Use the ULB and UDB when Translating the Bible"
+      - title: "How to Use the ULT and UST when Translating the Bible"
         link: translate-useulbudb
   - title: "Use the translationHelps when Translating"
     sections:
@@ -132,7 +132,7 @@ sections:
             link: resources-synequi
           - title: "Notes with Alternate Translations (AT)"
             link: resources-alter
-          - title: "Notes that Clarify the UDB Translation"
+          - title: "Notes that Clarify the UST Translation"
             link: resources-clarify
           - title: "Notes that have Alternate Meanings"
             link: resources-alterm
@@ -142,7 +142,7 @@ sections:
             link: resources-fofs
           - title: "Notes that Identify Indirect and Direct Quotes"
             link: resources-iordquote
-          - title: "Notes for Long ULB Phrases"
+          - title: "Notes for Long ULT Phrases"
             link: resources-long
           - title: "Using translationWords"
             link: resources-words
