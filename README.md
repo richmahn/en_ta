@@ -1,90 +1,53 @@
-# English translationAcademy
+# unfoldingWord translationAcademy
 
-## Overview
+## Description
 
-translationAcademy is intended to enable anyone, anywhere to equip themselves so that they will be able to make high-quality translations of biblical content into their own language. translationAcademy is designed to be highly flexible. It can be used in a systematic, in-advance approach or it can be used for just-in-time learning (or both, as needed). It is modular in structure.
+unfoldingWord translationAcademy is a modular handbook that provides a condensed explanation of Bible translation and checking principles that the global Church has implicitly affirmed define trustworthy translations. It enables translators to learn how to create trustworthy translations of the Bible in their own language.
 
-translationAcademy was developed by the [Door43 World Missions Community](https://door43.org) in conjunction with [Wycliffe Associates](http://www.wycliffeassociates.org/).  The entire project is made
-available under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0), see the [LICENSE](https://git.door43.org/Door43/en_ta/src/master/LICENSE.md) file for more information.
+## Downloading
 
-Please use the [issue queue](https://git.door43.org/Door43/en_ta/issues) to provide feedback or suggestions for improvement.
+If you want to download English translationAcademy to use, go here: [https://unfoldingword.bible/academy/](https://unfoldingword.bible/academy/). tA is also included in [tS](http://ufw.io/ts) and [tC](http://ufw.io/tc).
 
-## Resources
+## Improving tA
 
-If you want to download English translationAcademy to use, go here: https://unfoldingword.org/academy/.  tA is also included in [tS](http://ufw.io/ts) and [tC](http://ufw.io/tc).
+Please use the [issue queue](https://git.door43.org/unfoldingWord/en_ta/issues) to provide feedback or suggestions for improvement.
 
-## Contributing or Translating
+If you want to make your suggested changes then you may use the online editor to do so. See the [protected branch workflow](https://forum.ccbt.bible/t/protected-branch-workflow/76) document for step by step instructions.
 
-### Contributions are always welcomed. 
-The translationAcademy is a collaborative work between several organzations. We seek those that would like to contribute to the work. Presently there is an Oversight Team that is responsible for the maintenance of the content. The members of this team represent various organizations and are experienced Biblical Scholars, Linguists and Bible Translators.
-All contributions will be reviewed by the Oversight Team.
+## Structure
 
-#### Submit an Issue
-Submitting an issue is the preferred way to let the Oversight Team know of errors in the content. When you find an error, please note where the error is, if possible copy the error, open an [Issue](https://git.door43.org/Door43/en_ta/issues), paste in the error, then offer a correction, and then submit the Issue.
+The tA are written in a simple Markdown format and organized according to the [Resource Container Manual](https://resource-container.readthedocs.io/en/latest/container_types.html#manual-man) type.  See that link for more information but here is a quick summary.
 
-#### Pull Request
-To contribute to the content of the translationAcademy please fork a copy of the repository, make your changes and then submit a Pull Request to the repository.
-The Oversight Team will then review the PR and then decide on the merging of the content into the master repository.
+Each manual has it's own directory in this repository (for example, the Checking Manual is in the [checking](https://git.door43.org/unfoldingWord/en_ta/src/branch/master/checking) directory). Each module has its own directory inside of these manual directories. Inside each of these are three files:
 
+* `01.md` - This is the main body of the module
+* `sub-title.md` - This file contians the question that the module is intended to answer.
+* `title.md` - This contains the title of the module
 
-### Explanation of the content file layout
+There are also YAML formatted files in each manual's directory.  The `toc.yaml` file is for encoding the Table of Contents and the `config.yaml` file is for encoding dependencies between the modules.
 
-Each manual has it's own directory in this repository (for example, the Checking Manual is in the checking directory). The content of the files are in a hybrid YAML/markdown format, beginning with a YAML header followed by the body of the article in markdown.
+## GL Translators
 
-YAML is a markup language that is compact and easy to read. The YAML header bounded on the top and bottom by `---`. Each line within the header is a key-value pair, with the key and the value separated by a colon. Because the key is used by the publishing process, __it should never be translated or changed.__ Some of the values can be translated, and those are enumerated below in the instructions for translating.
+### tA Translation Philosophy
 
-Following the YAML header is the body of the article, which uses a format called "markdown." If you aren't familiar with markdown, you may find this [markdown tutorial](http://www.markdowntutorial.com/) helpful. Also, this README file, the one you are reading now, is written in markdown.
+To learn the philosophy of how to translate the tA please see the [Translate translationAcademy](http://gl-manual.readthedocs.io/en/latest/gl_translation.html#translating-translationacademy) article in the [Gateway Language Manual](http://gl-manual.readthedocs.io/).
 
-### Before you get started translating
+If you are translating online, please fork the [Door43-Catalog/en_ta](https://git.door43.org/Door43-Catalog/en_ta) repository, following this workflow: [Translate Content Online](https://forum.ccbt.bible/t/translate-content-online/75).
 
-* DO NOT RENAME ANY FILES. The name of the file is the same as the slug and is used to link the file to other files.
+### Technical Information for Translating tA
 
-* If you do any translation work, be sure to put your name in the `manifest.yaml` file.
-    * Left click on the file found in the root of the repository.
-    * Click on the pencil icon to edit the file.
-    * You will add the name(s) under the 'contributor' list heading (see line 5 and under)
-    * Click on the end of line 7 (after 'Wycliffe Associates') and then press the enter key to start a new line.
-    * Type in a dash then space then the name of a contributor between single quote marks.
-    * Type in additional names as necessary.
-    * Click on the green "Commit Changes" button at the bottom of the page to save the changes.
+* *Do not* rename any files or directories.  Only translate what is inside the files.
+* The `config.yaml` and `toc.yaml` files do not need to be changed unless you add a new module. When you are finished translating, you may want to update the `title` fields in the `toc.yaml` file, but you shouldn't make any other changes in those files.
+* Images that are included in tA should be no more than 600px wide. Leave the image links alone to use the original images.
+* Hyperlinks (links to other articles or to other pages on the internet) follow this pattern: `[text to display](http://www.example.com)`. You can translate the "text to display" inside the square brackets but not the web address that follows inside the parentheses.
 
-* The `LICENSE.md` file does not need to be translated or modified.
-* The `README.md` does not need to be translated or modified.
+You are free to add additional modules. In order for the new modules to be included when tA is published, all of the following conditions need to be satisfied:
 
-### Images
+* You must create a directory in one of the manual directories (like the translate directory) that has the short name of the module you want to write.  For example, to create a new module on "testing" in the Translation Manual, you will want to put the file in "translate/testing/01.md".
+* The file must be included in the table of contents, `toc.yaml` for the appropriate manual.
+* The value of the slug in the `toc.yaml` file and the directory (without the extension) must be the same as the directory name (`testing` in this example).
+* The slug must be unique, and not used in any of the other tA repositories. This is a requirement so that it is possible to create unambiguous links to articles in other tA manuals.
 
-Images that are included in tA should be no more than 600px wide.
+## License
 
-### Instructions for translating translationAcademy
-
-__The instructions for translating `meta.yaml` (metadata) and `toc.yaml` (table of contents) are included in the header of those files.__
-
-The first step is to __fork this repository.__ When you do this, change the name of the repository to start with your language code rather than
-`en`.
-
-When translating the files for each manual:
-
-* In the YAML header, you are free to translate the values following the `title`, `question` and `credits` keys. __DO NOT TRANSLATE THE KEYS__.
-None of the other values should be translated. They contain slugs that are used to identify this article and to link it to other articles.
-
-* Translating hyperlinks: Hyperlinks (links to other articles or to other pages on the internet) follow this pattern,
-
-```
-[text to display](http://www.example.com)
-```
-
-You can translate the "text to display" inside the square brackets but not the web address that follows inside the parentheses.
-
-You are free to add additional pages. In order for the new page to be included when tA is published, all of the following conditions need to be satisfied:
-
-1. You must create a directory in one of the manual directories (like the translate directory) that has the short name of the module you want to write.  For example, to create a new module on "testing" in the Translation Manual, you will want to put the file in "translate/testing/01.md".
-
-1. The file must be included in the table of contents, `toc.yaml` for the appropriate manual.
-
-1. The value of the slug in the YAML header and the file name (without the extension) must be the same as the directory name.
-
-1. The slug must be unique, and not used in any of the other tA repositories. This is a requirement so that it is possible to create unambiguous links to articles in other tA manuals.
-
-## Historical
-
-If you would like to see the deprecated tranlsationAcademy pages in DokuWiki, go to https://dw.door43.org/en/ta.  You can still see the workbench pages at https://dw.door43.org/en/ta/workbench.
+See the [LICENSE](https://git.door43.org/unfoldingWord/en_ta/src/branch/master/LICENSE.md) file for licensing information.
