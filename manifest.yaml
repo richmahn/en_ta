@@ -38,7 +38,7 @@ dublin_core:
       identifier: 'ta'
       language: 'en'
       version: '10'
-  subject: ''
+  subject: 'Translation Academy'
   title: 'translationAcademy'
   type: 'man'
   version: '10'
