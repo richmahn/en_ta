@@ -1,1 +1,1 @@
-Why should I check someone else's translation?
+Why should I check someone else’s translation?

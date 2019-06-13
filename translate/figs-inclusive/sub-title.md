@@ -1,1 +1,1 @@
-What is inclusive "we"?
+What is inclusive “we”?
