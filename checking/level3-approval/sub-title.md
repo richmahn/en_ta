@@ -1,1 +1,1 @@
-How can I affirm a Level 3 approval of the translation?
+How can I affirm a translation after Validation Checking?
