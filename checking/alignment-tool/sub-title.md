@@ -1,0 +1,1 @@
+How do I use the Alignment Tool for Validation Checking?

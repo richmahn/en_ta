@@ -1,1 +1,1 @@
-How to Do a Formatting Check
+How to Check for Good Formatting

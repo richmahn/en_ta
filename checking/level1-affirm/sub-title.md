@@ -1,1 +1,0 @@
-How do I affirm that I have finished level 1 checking?

@@ -1,1 +1,1 @@
-How do I do a level 3 check?
+What is a Validation Check?

@@ -16,9 +16,9 @@ If you want to make your suggested changes then you may use the online editor to
 
 ## Structure
 
-The tA are written in a simple Markdown format and organized according to the [Resource Container Manual](https://resource-container.readthedocs.io/en/latest/container_types.html#manual-man) type.  See that link for more information but here is a quick summary.
+tA is written in a simple Markdown format and organized according to the [Resource Container Manual](https://resource-container.readthedocs.io/en/latest/container_types.html#manual-man) type.  See that link for more information but here is a quick summary.
 
-Each manual has it’s own directory in this repository (for example, the Checking Manual is in the [checking](https://git.door43.org/unfoldingWord/en_ta/src/branch/master/checking) directory). Each module has its own directory inside of these manual directories. Inside each of these are three files:
+Each manual has its own directory in this repository (for example, the Checking Manual is in the [checking](https://git.door43.org/unfoldingWord/en_ta/src/branch/master/checking) directory). Each module has its own directory inside of these manual directories. Inside each of these are three files:
 
 * `01.md` - This is the main body of the module
 * `sub-title.md` - This file contians the question that the module is intended to answer.

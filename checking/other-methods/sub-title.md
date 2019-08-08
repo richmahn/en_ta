@@ -1,1 +1,1 @@
-What are some other methods that I can use to check the translation?
+What are some other methods that I can use to check the translation for clarity and naturalness?

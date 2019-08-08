@@ -1,1 +1,1 @@
-Steps in Checking a Translation
+Steps for Validation Checking

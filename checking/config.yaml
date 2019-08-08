@@ -2,64 +2,43 @@ acceptable:
   recommended:
     - alphabet
     - complete
+    - community-evaluation
   dependencies:
     - clear
     - natural
     - church-leader-check
 accuracy-check:
   recommended:
-    - level2
     - language-community-check
-    - church-leader-check
     - other-methods
     - guidelines-accurate
   dependencies:
-    - level1
+    - church-leader-check
     - guidelines-accurate
     - important-term-check
-accurate:
-  recommended:
-    - complete
-    - accuracy-check
-    - guidelines-accurate
-  dependencies:
-    - alphabet
-    - church-leader-check
+alignment-tool:
+  recommended: 
+    - vol2-things-to-check
+  dependencies: 
+    - vol2-steps
 alphabet:
-  recommended: []
+  recommended:
+    - spelling
   dependencies:
     - acceptable
     - translate-alphabet
-authority-level1:
-  recommended:
-    - authority-level2
-    - level1
-  dependencies:
-    - authority-process
-authority-level2:
-  recommended:
-    - authority-level3
-  dependencies:
-    - authority-level1
-authority-level3:
-  recommended:
-    - level3
-    - level1
-  dependencies:
-    - authority-level2
+    - formatting
 authority-process:
-  recommended:
-    - authority-level1
-    - level1
+  recommended: 
+    - peer-check
   dependencies:
     - goal-checking
 church-leader-check:
   recommended:
     - accuracy-check
-    - accurate
     - good
-  dependencies:
-    - level2
+  dependencies: 
+    - trans-note-check
 clear:
   recommended:
     - acceptable
@@ -67,21 +46,24 @@ clear:
     - guidelines-clear
     - language-community-check
   dependencies:
-    - level2
+    - other-methods
 community-evaluation:
   recommended:
     - church-leader-check
     - self-assessment
+    - good
   dependencies:
     - language-community-check
     - other-methods
     - writing-decisions
+    - acceptable
 complete:
   recommended:
     - self-assessment
     - good
-  dependencies:
-    - accurate
+    - verses
+  dependencies: 
+    - punctuation
 formatting:
   recommended:
     - alphabet
@@ -89,21 +71,25 @@ formatting:
     - punctuation
   dependencies:
     - vol2-things-to-check
+    - level3-approval
 goal-checking:
   recommended:
     - intro-checking
     - authority-process
   dependencies:
-    - intro-levels
+    - intro-check
+    - intro-checking
 good:
   recommended:
     - self-assessment
     - level3
   dependencies:
     - complete
+    - community-evaluation
 headings:
   recommended:
     - community-evaluation
+    - publishing
   dependencies:
     - acceptable
     - punctuation
@@ -111,26 +97,20 @@ headings:
 important-term-check:
   recommended:
     - accuracy-check
+    - trans-note-check
   dependencies:
-    - level1
     - peer-check
+    - team-oral-chunk-check
 intro-check:
   recommended:
-    - intro-checking
+    - goal-checking
   dependencies:
-    - translate-manual
+    - intro-checking
 intro-checking:
   recommended:
-    - intro-levels
-  dependencies:
     - intro-check
-intro-levels:
-  recommended:
-    - intro-levels
-    - level1
-    - translate-source-version
   dependencies:
-    - intro-checking
+    - translate-manual
 language-community-check:
   recommended:
     - natural
@@ -138,45 +118,20 @@ language-community-check:
     - writing-decisions
     - community-evaluation
   dependencies:
-    - level2
-level1:
-  recommended:
-    - statement-of-faith
-    - translation-guidelines
-    - accuracy-check
-  dependencies:
-    - intro-levels
-level1-affirm:
-  recommended:
-    - level2
-  dependencies:
-    - statement-of-faith
-    - translation-guidelines
-    - level1
-    - accuracy-check
-level2:
-  recommended:
-    - language-community-check
-    - church-leader-check
-    - self-assessment
-    - good
-  dependencies:
-    - intro-levels
     - accuracy-check
 level3:
   recommended:
+    - vol2-steps
     - level3-questions
-    - self-assessment
   dependencies:
-    - intro-levels
-    - level2
     - accuracy-check
+    - good
 level3-approval:
-  recommended: []
+  recommended:
+    - formatting
   dependencies:
     - level3
     - level3-questions
-    - self-assessment
 level3-questions:
   recommended:
     - accuracy-check
@@ -184,6 +139,7 @@ level3-questions:
     - self-assessment
   dependencies:
     - level3
+    - vol2-things-to-check
 natural:
   recommended:
     - acceptable
@@ -191,23 +147,28 @@ natural:
     - language-community-check
   dependencies:
     - alphabet
-    - level2
     - clear
 other-methods:
   recommended:
     - writing-decisions
     - community-evaluation
+    - clear
   dependencies:
     - language-community-check
 peer-check:
   recommended:
-    - important-term-check
+    - team-oral-chunk-check
   dependencies:
-    - level1
-    - self-check
+    - first-draft
+publishing:
+  recommended:
+    - vol2-backtranslation
+  dependencies:
+    - headings
 punctuation:
   recommended:
     - verses
+    - complete
   dependencies:
     - spelling
     - translate-alphabet
@@ -226,19 +187,23 @@ self-assessment:
     - complete
     - church-leader-check
     - level3
-self-check:
-  recommended:
-    - peer-check
-  dependencies:
-    - level1
 spelling:
   recommended:
     - punctuation
   dependencies:
-    - vol2-intro
     - acceptable
     - translate-alphabet
     - alphabet
+team-oral-chunk-check:
+  recommended:
+    - important-term-check
+  dependencies:
+    - peer-check
+trans-note-check:
+  recommended:
+    - church-leader-check
+  dependencies:
+    - important-term-check
 verses:
   recommended:
     - headings
@@ -246,10 +211,12 @@ verses:
     - spelling
     - punctuation
     - alphabet
+    - complete
 vol2-backtranslation:
   recommended:
     - vol2-backtranslation-purpose
   dependencies:
+    - publishing
     - vol2-steps
 vol2-backtranslation-guidelines:
   recommended:
@@ -276,19 +243,13 @@ vol2-backtranslation-written:
     - vol2-backtranslation-guidelines
   dependencies:
     - vol2-backtranslation-kinds
-vol2-intro:
-  recommended:
-    - vol2-steps
-  dependencies:
-    - church-leader-check
-    - level3
 vol2-steps:
   recommended:
-    - vol2-backtranslation
+    - alignment-tool
   dependencies:
-    - vol2-intro
+    - level3
 vol2-things-to-check:
   recommended:
-    - formatting
+    - level3-questions
   dependencies:
-    - vol2-steps
+    - alignment-tool

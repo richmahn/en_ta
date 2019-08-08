@@ -1,1 +1,1 @@
-Checking Level Three - Affirmation by Church Leadership
+Validation Check - Affirmation by a Network of Churches

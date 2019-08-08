@@ -1,1 +1,1 @@
-What are the steps I should follow to check someone else’s translation?
+What are the steps I should follow to check a translation at the Validation stage?
