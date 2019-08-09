@@ -261,6 +261,29 @@ sections:
                 link: figs-imperative
               - title: "Exclamations"
                 link: figs-exclamations
+          - title: "Connecting Words"
+            link: grammar-connecting-words
+            sections:
+              - title: "Sequential Clauses"
+                link: grammar-connecting-words-time-sequential
+              - title: "Simultaneous Clauses"
+                link: grammar-connect-words-time-simultaneous
+              - title: "Background Clauses"
+                link: grammar-connect-words-time-background
+              - title: "Goal or Purpose Clauses"
+                link: grammar-connect-words-logic-goal
+              - title: "Reason-Result Clauses"
+                link: grammar-connect-words-logic-result
+              - title: "Contrast Clauses"
+                link: grammar-connect-words-logic-contrast
+              - title: "Factual Conditions"
+                link: grammar-connect-words-condition-fact
+              - title: "Contrary-to-Fact Conditions"
+                link: grammar-connect-words-condition-contrary
+              - title: "Hypothetical Conditions"
+                link: grammar-connect-words-condition-hypothetical
+              - title: "Exception Clauses"
+                link: grammar-connect-words-exceptions
       - title: "Quotes"
         sections:
           - title: "Quotations and Quote Margins"
