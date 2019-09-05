@@ -330,6 +330,39 @@ first-draft:
     - translation-difficulty
     - translate-source-text
     - writing-decisions
+grammar-connect-condition-contrary:
+  recommended: []
+  dependencies: []
+grammar-connect-condition-fact:
+  recommended: []
+  dependencies: []
+grammar-connect-condition-hypothetical:
+  recommended: []
+  dependencies: []
+grammar-connect-exceptions:
+  recommended: []
+  dependencies: []
+grammar-connect-logic-contrast:
+  recommended: []
+  dependencies: []
+grammar-connect-logic-goal:
+  recommended: []
+  dependencies: []
+grammar-connect-logic-result:
+  recommended: []
+  dependencies: []
+grammar-connect-time-background:
+  recommended: []
+  dependencies: []
+grammar-connect-time-sequential:
+  recommended: []
+  dependencies: []
+grammar-connect-time-simultaneous:
+  recommended: []
+  dependencies: []
+grammar-connect-words-phrases:
+  recommended: []
+  dependencies: []
 guidelines-accurate:
   recommended:
     - guidelines-clear
