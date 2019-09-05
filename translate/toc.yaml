@@ -200,6 +200,28 @@ sections:
             link: figs-abstractnouns
           - title: "Active or Passive"
             link: figs-activepassive
+          - title: "Connect - Contrary to Fact Conditions"
+            link: grammar-connect-condition-contrary
+          - title: "Connect - Factual Conditions"
+            link: grammar-connect-condition-fact
+          - title: "Connect - Hypothetical Conditions"
+            link: grammar-connect-condition-hypothetical
+          - title: "Connect - Exception Clauses"
+            link: grammar-connect-exceptions
+          - title: "Connect - Contrast Relationship"
+            link: grammar-connect-logic-contrast
+          - title: "Connect - Goal (Purpose) Relationship"
+            link: grammar-connect-logic-goal
+          - title: "Connect - Reason-Result Relationship"
+            link: grammar-connect-logic-result
+          - title: "Connect - Background Information"
+            link: grammar-connect-time-background
+          - title: "Connect - Simultaneous Time Relationship"
+            link: grammar-connect-time-sequential
+          - title: "Connect - Words and Phrases"
+            link: grammar-connect-time-simultaneous
+          - title: "Connect - Sequential Time Relationship"
+            link: grammar-connect-words-phrases
           - title: "Distinguishing versus Informing or Reminding"
             link: figs-distinguish
           - title: "Double Negatives"
