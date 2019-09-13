@@ -1,1 +1,0 @@
-How do I check a translation?

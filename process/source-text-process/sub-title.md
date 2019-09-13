@@ -1,1 +1,0 @@
-How do I make my Gateway Language translation a source text?
