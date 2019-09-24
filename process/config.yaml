@@ -2,6 +2,7 @@ intro-publishing:
   recommended: []
   dependencies:
     - prechecking-training
+    - translation-overview
 intro-share:
   recommended:
     - share-content
@@ -11,6 +12,7 @@ platforms:
   recommended:
     - setup-ts
     - pretranslation-training
+    - setup-tc
   dependencies:
     - process-manual
     - file-formats
@@ -35,11 +37,6 @@ process-manual:
   recommended: []
   dependencies:
     - finding-answers
-required-checking:
-  recommended:
-    - intro-publishing
-  dependencies:
-    - prechecking-training
 setup-team:
   recommended:
     - choose-team
@@ -50,16 +47,22 @@ setup-team:
     - translation-difficulty
   dependencies:
     - translate-process
+setup-tc:
+  recommended:
+    - setup-ts
+  dependencies:
+    - platforms
 setup-ts:
-  recommended: []
+  recommended:
+    - setup-tc
   dependencies:
     - platforms
 share-content:
   recommended: []
   dependencies:
     - intro-share
-source-text-process:
+translation-overview:
   recommended:
-    - intro-share
-  dependencies:
     - intro-publishing
+  dependencies:
+    - pretranslation-training

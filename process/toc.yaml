@@ -18,20 +18,20 @@ sections:
         link: platforms
       - title: "Setting Up translationStudio"
         link: setup-ts
+      - title: "Translation Overview"
+        link: translation-overview
 
   - title: "4. Checking"
     sections:
       - title: "Training Before Checking Begins"
         link: prechecking-training
-      - title: "How to Check"
-        link: required-checking
+      - title: "Setting Up translationCore"
+        link: setup-tc
 
   - title: "5. Publishing"
     sections:
       - title: "Introduction to Publishing"
         link: intro-publishing
-      - title: "Source Text Process"
-        link: source-text-process
 
   - title: "6. Distributing"
     sections:
