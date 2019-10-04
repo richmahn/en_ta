@@ -111,7 +111,7 @@ sections:
         link: translate-bibleorg
       - title: "Chapter and Verse Numbers"
         link: translate-chapverse
-      - title: "unfoldingWord Literal Text (ULT) and unfoldingWord Simplified Text (UST) Formatting Signals"
+      - title: "unfoldingWord® Literal Text (ULT) and unfoldingWord® Simplified Text (UST) Formatting Signals"
         link: translate-formatsignals
       - title: "How to Use the ULT and UST when Translating the Bible"
         link: translate-useulbudb
@@ -119,7 +119,7 @@ sections:
     sections:
       - title: "Notes with Links"
         link: resources-links
-      - title: "Using the translationNotes"
+      - title: "Using the unfoldingWord® Translation Notes"
         link: resources-types
         sections:
           - title: "Connecting Statement and General Information in the Notes"
@@ -144,9 +144,9 @@ sections:
             link: resources-iordquote
           - title: "Notes for Long ULT Phrases"
             link: resources-long
-          - title: "Using translationWords"
+          - title: "Using unfoldingWord® Translation Words"
             link: resources-words
-          - title: "Using translationQuestions"
+          - title: "Using unfoldingWord® Translation Questions"
             link: resources-questions
   - title: "Just-in-Time Learning Modules"
     sections:

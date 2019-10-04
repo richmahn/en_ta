@@ -1,1 +1,1 @@
-Introduction to translationAcademy
+Introduction to unfoldingWord® Translation Academy
