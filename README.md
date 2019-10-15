@@ -38,7 +38,7 @@ If you are translating online, please fork the [Door43-Catalog/en_ta](https://gi
 
 * *Do not* rename any files or directories.  Only translate what is inside the files.
 * The `config.yaml` and `toc.yaml` files do not need to be changed unless you add a new module. When you are finished translating, you may want to update the `title` fields in the `toc.yaml` file, but you shouldn’t make any other changes in those files.
-* Images that are included in UTA should be no more than 600px wide. Leave the image links alone to use the original images.
+* Images that are included in UTA should be no more than 600px wide. NOTE: If you use the images already in UTA, you do not need to translate the names of the image files.  They will work in their current format.
 * Hyperlinks (links to other articles or to other pages on the internet) follow this pattern: `[text to display](http://www.example.com)`. You can translate the “text to display” inside the square brackets but not the web address that follows inside the parentheses.
 
 You are free to add additional modules. In order for the new modules to be included, all of the following conditions need to be satisfied:
