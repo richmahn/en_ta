@@ -1,1 +1,1 @@
-translationWord Check
+translationWords Check in tC

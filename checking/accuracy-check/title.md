@@ -1,1 +1,1 @@
-Accuracy Check
+Checking the Translation for Accuracy

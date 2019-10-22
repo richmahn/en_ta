@@ -1,1 +1,1 @@
-The Alignment Tool
+Validating with the Alignment Tool in tC

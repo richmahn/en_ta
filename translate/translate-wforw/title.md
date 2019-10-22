@@ -1,1 +1,1 @@
-Word-for-Word Substitution
+Word for Word Substitution

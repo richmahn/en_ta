@@ -1,1 +1,1 @@
-Accuracy and Community Affirmation
+Affirmation of Accuracy and Community Acceptance

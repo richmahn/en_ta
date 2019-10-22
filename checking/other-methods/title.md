@@ -1,1 +1,1 @@
-Other Methods for Community Checking
+Other Methods

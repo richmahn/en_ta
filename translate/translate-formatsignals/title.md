@@ -1,1 +1,1 @@
-ULT and UST Formatting Signals
+unfoldingWord® Literal Text (ULT) and unfoldingWord® Simplified Text (UST) Formatting Signals

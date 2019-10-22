@@ -1,1 +1,1 @@
-Notes That Have Alternate Meanings
+Notes that have Alternate Meanings

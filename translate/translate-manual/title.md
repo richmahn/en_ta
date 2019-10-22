@@ -1,1 +1,1 @@
-Introduction to Translation Manual
+Introduction to the Translation Manual

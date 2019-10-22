@@ -1,1 +1,1 @@
-Hyperbole and Generalization
+Hyperbole

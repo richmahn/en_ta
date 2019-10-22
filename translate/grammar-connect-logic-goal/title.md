@@ -1,1 +1,1 @@
-The Goal (Purpose) Relationship
+Connect - Goal (Purpose) Relationship

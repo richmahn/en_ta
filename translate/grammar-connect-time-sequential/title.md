@@ -1,1 +1,1 @@
-The Sequential Time Relationship
+Connect - Simultaneous Time Relationship

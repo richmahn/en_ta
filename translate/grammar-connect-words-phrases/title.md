@@ -1,1 +1,1 @@
-Connecting Words and Phrases
+Connect - Sequential Time Relationship

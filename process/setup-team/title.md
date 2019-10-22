@@ -1,1 +1,1 @@
-Setting Up a Translation Team
+Setting Up A Translation Team

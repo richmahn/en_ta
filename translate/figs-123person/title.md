@@ -1,1 +1,1 @@
-First, Second, or Third Person
+First, Second or Third Person

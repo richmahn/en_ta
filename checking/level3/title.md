@@ -1,1 +1,1 @@
-Validation Check - Affirmation by a Network of Churches
+Validation Checking

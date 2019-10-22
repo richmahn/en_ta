@@ -1,1 +1,1 @@
-### Translation Notes Check
+translationNotes Check in tC

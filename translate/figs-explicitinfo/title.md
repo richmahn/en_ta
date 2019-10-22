@@ -1,1 +1,1 @@
-When to Make Explicit Information Implicit
+Making Assumed Knowledge and Implicit Information Explicit

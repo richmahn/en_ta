@@ -1,1 +1,1 @@
-Notes that Include a Quote from the UST
+Notes that Clarify the UST Translation

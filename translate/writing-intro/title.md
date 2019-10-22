@@ -1,1 +1,1 @@
-Types of Writing
+Writing Styles

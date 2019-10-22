@@ -1,1 +1,1 @@
-Using translationQuestions
+Using unfoldingWord® Translation Questions

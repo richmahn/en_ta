@@ -1,1 +1,1 @@
-Clauses that Give Background Information
+Connect - Background Information
