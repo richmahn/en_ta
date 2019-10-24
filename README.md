@@ -32,6 +32,8 @@ There are also YAML formatted files in each manual’s directory.  The `toc.yaml
 
 To learn the philosophy of how to translate the UTA please see the [Translate unfoldingWord® Translation Academy](http://gl-manual.readthedocs.io/en/latest/gl_translation.html#translating-translationacademy) article in the [Gateway Language Manual](http://gl-manual.readthedocs.io/).
 
+NOTE: The Bible was originally written in Hebrew, Aramaic, and Greek. In these languages, masculine pronouns and terms can apply to both men and women.  The same is true in English, and in this manual we often use masculine terms to refer to both men and women.  For example, in this manual we often use masculine pronouns to refer to people like you (and other translators) who will use this manual. But we do not intend to say that only men can use this manual or to say that only men can translate the Bible.  We are simply using masculine terms to refer to both men and women.
+
 If you are translating online, please fork the [Door43-Catalog/en_ta](https://git.door43.org/Door43-Catalog/en_ta) repository, following this workflow: [Translate Content Online](https://forum.ccbt.bible/t/translate-content-online/75).
 
 ### Technical Information for Translating UTA
