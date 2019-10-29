@@ -114,7 +114,7 @@ sections:
       - title: "unfoldingWord® Literal Text (ULT) and unfoldingWord® Simplified Text (UST) Formatting Signals"
         link: translate-formatsignals
       - title: "How to Use the ULT and UST when Translating the Bible"
-        link: translate-useulbudb
+        link: translate-useultust
   - title: "Use the translationHelps when Translating"
     sections:
       - title: "Notes with Links"
@@ -150,48 +150,74 @@ sections:
             link: resources-questions
   - title: "Just-in-Time Learning Modules"
     sections:
-      - title: "Figures of Speech"
+      - title: "Translation Issues"
         sections:
-          - title: "Figures of Speech"
-            link: figs-intro
-          - title: "Apostrophe"
-            link: figs-apostrophe
-          - title: "Doublet"
-            link: figs-doublet
-          - title: "Euphemism"
-            link: figs-euphemism
-          - title: "Extended Metaphor"
-            link: figs-exmetaphor
-          - title: "Hendiadys"
-            link: figs-hendiadys
-          - title: "Hyperbole"
-            link: figs-hyperbole
-          - title: "Idiom"
-            link: figs-idiom
-          - title: "Irony"
-            link: figs-irony
-          - title: "Litotes"
-            link: figs-litotes
-          - title: "Merism"
-            link: figs-merism
-          - title: "Metaphor"
-            link: figs-metaphor
-          - title: "Metonymy"
-            link: figs-metonymy
-          - title: "Parallelism"
-            link: figs-parallelism
-          - title: "Parallelism with the Same Meaning" 
-            link: figs-synonparallelism
-          - title: "Personification"
-            link: figs-personification
-          - title: "Predictive Past"
-            link: figs-pastforfuture
-          - title: "Rhetorical Question"
-            link: figs-rquestion
-          - title: "Simile"
-            link: figs-simile
-          - title: "Synecdoche"
-            link: figs-synecdoche
+          - title: "Textual Variants"
+            link: translate-textvariants
+          - title: "Verse Bridges"
+            link: translate-versebridge
+      - title: "Writing Styles (Discourse)"
+        sections:
+          - title: "Writing Styles"
+            link: writing-intro
+          - title: "Background Information"
+            link: writing-background
+          - title: "End of Story"
+            link: writing-endofstory
+          - title: "Hypothetical Situations"
+            link: figs-hypo
+          - title: "Introduction of a New Event"
+            link: writing-newevent
+          - title: "Introduction of New and Old Participants"
+            link: writing-participants
+          - title: "Parables"
+            link: figs-parables
+          - title: "Poetry"
+            link: writing-poetry
+          - title: "Proverbs"
+            link: writing-proverbs
+          - title: "Symbolic Language"
+            link: writing-symlanguage
+          - title: "Symbolic Prophecy"
+            link: writing-apocalypticwriting
+      - title: "Sentences"
+        sections:
+          - title: "Sentence Structure"
+            link: figs-sentences
+          - title: "Information Structure"
+            link: figs-infostructure
+          - title: "Sentence Types"
+            link: figs-sentencetypes
+            sections:
+              - title: "Statements - Other Uses"
+                link: figs-declarative
+              - title: "Imperatives - Other Uses"
+                link: figs-imperative
+              - title: "Exclamations"
+                link: figs-exclamations
+          - title: "Connecting Words"
+            link: grammar-connect-words-phrases
+            sections:
+              - title: "Sequential Clauses"
+                link: grammar-connect-time-sequential
+              - title: "Simultaneous Clauses"
+                link: grammar-connect-time-simultaneous
+              - title: "Background Clauses"
+                link: grammar-connect-time-background
+              - title: "Goal or Purpose Clauses"
+                link: grammar-connect-logic-goal
+              - title: "Reason-Result Clauses"
+                link: grammar-connect-logic-result
+              - title: "Contrast Clauses"
+                link: grammar-connect-logic-contrast
+              - title: "Factual Conditions"
+                link: grammar-connect-condition-fact
+              - title: "Contrary-to-Fact Conditions"
+                link: grammar-connect-condition-contrary
+              - title: "Hypothetical Conditions"
+                link: grammar-connect-condition-hypothetical
+              - title: "Exception Clauses"
+                link: grammar-connect-exceptions
       - title: "Grammar"
         sections:
           - title: "Grammar Topics"
@@ -200,28 +226,6 @@ sections:
             link: figs-abstractnouns
           - title: "Active or Passive"
             link: figs-activepassive
-          - title: "Connect - Contrary to Fact Conditions"
-            link: grammar-connect-condition-contrary
-          - title: "Connect - Factual Conditions"
-            link: grammar-connect-condition-fact
-          - title: "Connect - Hypothetical Conditions"
-            link: grammar-connect-condition-hypothetical
-          - title: "Connect - Exception Clauses"
-            link: grammar-connect-exceptions
-          - title: "Connect - Contrast Relationship"
-            link: grammar-connect-logic-contrast
-          - title: "Connect - Goal (Purpose) Relationship"
-            link: grammar-connect-logic-goal
-          - title: "Connect - Reason-Result Relationship"
-            link: grammar-connect-logic-result
-          - title: "Connect - Background Information"
-            link: grammar-connect-time-background
-          - title: "Connect - Simultaneous Time Relationship"
-            link: grammar-connect-time-sequential
-          - title: "Connect - Words and Phrases"
-            link: grammar-connect-time-simultaneous
-          - title: "Connect - Sequential Time Relationship"
-            link: grammar-connect-words-phrases
           - title: "Distinguishing versus Informing or Reminding"
             link: figs-distinguish
           - title: "Double Negatives"
@@ -251,7 +255,23 @@ sections:
           - title: "When Masculine Words Include Women"
             link: figs-gendernotations
           - title: "Word Order"
-            link: figs-order
+            sections:
+              - title: "Word Order – General"
+                link: figs-order
+              - title: "Word Order – Hebrew"
+                link: figs-orderHeb
+              - title: "Word Order - Greek"
+                link: figs-orderGrk
+      - title: "Quotes"
+        sections:
+          - title: "Quotations and Quote Margins"
+            link: writing-quotations
+          - title: "Direct and Indirect Quotations"
+            link: figs-quotations
+          - title: "Quote Markings"
+            link: figs-quotemarks
+          - title: "Quotes within Quotes"
+            link: figs-quotesinquotes
       - title: "Pronouns"
         sections:
           - title: "Pronouns"
@@ -268,86 +288,6 @@ sections:
             link: figs-rpronouns
           - title: "Pronouns - When to Use Them"
             link: writing-pronouns
-      - title: "Sentences"
-        sections:
-          - title: "Sentence Structure"
-            link: figs-sentences
-          - title: "Information Structure"
-            link: figs-infostructure
-          - title: "Sentence Types"
-            link: figs-sentencetypes
-            sections:
-              - title: "Statements - Other Uses"
-                link: figs-declarative
-              - title: "Imperatives - Other Uses"
-                link: figs-imperative
-              - title: "Exclamations"
-                link: figs-exclamations
-          - title: "Connecting Words"
-            link: grammar-connecting-words
-            sections:
-              - title: "Sequential Clauses"
-                link: grammar-connecting-words-time-sequential
-              - title: "Simultaneous Clauses"
-                link: grammar-connect-words-time-simultaneous
-              - title: "Background Clauses"
-                link: grammar-connect-words-time-background
-              - title: "Goal or Purpose Clauses"
-                link: grammar-connect-words-logic-goal
-              - title: "Reason-Result Clauses"
-                link: grammar-connect-words-logic-result
-              - title: "Contrast Clauses"
-                link: grammar-connect-words-logic-contrast
-              - title: "Factual Conditions"
-                link: grammar-connect-words-condition-fact
-              - title: "Contrary-to-Fact Conditions"
-                link: grammar-connect-words-condition-contrary
-              - title: "Hypothetical Conditions"
-                link: grammar-connect-words-condition-hypothetical
-              - title: "Exception Clauses"
-                link: grammar-connect-words-exceptions
-      - title: "Quotes"
-        sections:
-          - title: "Quotations and Quote Margins"
-            link: writing-quotations
-          - title: "Direct and Indirect Quotations"
-            link: figs-quotations
-          - title: "Quote Markings"
-            link: figs-quotemarks
-          - title: "Quotes within Quotes"
-            link: figs-quotesinquotes
-      - title: "Writing Styles (Discourse)"
-        sections:
-          - title: "Writing Styles"
-            link: writing-intro
-          - title: "Background Information"
-            link: writing-background
-          - title: "Connecting Words"
-            link: writing-connectingwords
-          - title: "End of Story"
-            link: writing-endofstory
-          - title: "Hypothetical Situations"
-            link: figs-hypo
-          - title: "Introduction of a New Event"
-            link: writing-newevent
-          - title: "Introduction of New and Old Participants"
-            link: writing-participants
-          - title: "Parables"
-            link: figs-parables
-          - title: "Poetry"
-            link: writing-poetry
-          - title: "Proverbs"
-            link: writing-proverbs
-          - title: "Symbolic Language"
-            link: writing-symlanguage
-          - title: "Symbolic Prophecy"
-            link: writing-apocalypticwriting
-      - title: "Translation Issues"
-        sections:
-          - title: "Textual Variants"
-            link: translate-textvariants
-          - title: "Verse Bridges"
-            link: translate-versebridge
       - title: "Unknowns"
         sections:
           - title: "Translate Unknowns"
@@ -382,27 +322,74 @@ sections:
             link: translate-decimal
           - title: "Symbolic Action"
             link: translate-symaction
+      - title: "Figures of Speech"
+        sections:
+          - title: "Figures of Speech"
+            link: figs-intro
+          - title: "Apostrophe"
+            link: figs-apostrophe
+          - title: "Doublet"
+            link: figs-doublet
+          - title: "Euphemism"
+            link: figs-euphemism
+          - title: "Hendiadys"
+            link: figs-hendiadys
+          - title: "Hyperbole"
+            link: figs-hyperbole
+          - title: "Idiom"
+            link: figs-idiom
+          - title: "Irony"
+            link: figs-irony
+          - title: "Litotes"
+            link: figs-litotes
+          - title: "Merism"
+            link: figs-merism
+          - title: "Metaphor"
+            link: figs-metaphor
+          - title: "Metonymy"
+            link: figs-metonymy
+          - title: "Parallelism"
+            link: figs-parallelism
+          - title: "Parallelism with the Same Meaning" 
+            link: figs-synonparallelism
+          - title: "Personification"
+            link: figs-personification
+          - title: "Predictive Past"
+            link: figs-pastforfuture
+          - title: "Rhetorical Question"
+            link: figs-rquestion
+          - title: "Simile"
+            link: figs-simile
+          - title: "Synecdoche"
+            link: figs-synecdoche
       - title: "Biblical Imagery"
         sections:
           - title: "Biblical Imagery"
             link: biblicalimageryta
-          - title: "Biblical Imagery - Common Metonymies"
-            link: bita-part2
           - title: "Biblical Imagery - Common Patterns"
             link: bita-part1
+          - title: "Biblical Imagery - Common Metonymies"
+            link: bita-part2
+          - title: "Biblical Imagery - Simple Metaphors"
+            link: figs-simetaphor
+          - title: "Biblical Imagery - Extended Metaphors"
+            link: figs-exmetaphor
+          - title: "Biblical Imagery - Complex Metaphors"
+            link: figs-cometaphor
+          - title: "Common Metaphors in the Bible"
             sections:
-              - title: "Biblical Imagery - Animals"
-                link: bita-animals
               - title: "Biblical Imagery - Body Parts and Human Qualities"
                 link: bita-hq
-              - title: "Biblical Imagery - Farming"
-                link: bita-farming
               - title: "Biblical Imagery - Human Behavior"
                 link: bita-humanbehavior
-              - title: "Biblical Imagery - Man-made Objects"
-                link: bita-manmade
               - title: "Biblical Imagery - Natural Phenomena"
                 link: bita-phenom
+              - title: "Biblical Imagery - Man-made Objects"
+                link: bita-manmade
+              - title: "Biblical Imagery - Farming"
+                link: bita-farming
+              - title: "Biblical Imagery - Animals"
+                link: bita-animals
               - title: "Biblical Imagery - Plants"
                 link: bita-plants
           - title: "Biblical Imagery - Cultural Models"

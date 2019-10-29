@@ -20,11 +20,6 @@ sections:
         link: important-term-check
       - title: "translationNotes Check in tC"
         link: trans-note-check
-      - title: "Church Leader Check"
-        link: church-leader-check
-        sections:
-          - title: "Checking the Translation for Accuracy"
-            link: accuracy-check
       - title: "Language Community Check" 
         sections:
           - title: "Checking the Translation for Clarity and Naturalness"
@@ -39,6 +34,12 @@ sections:
             link: acceptable
           - title: "Language Community Evaluation Questions"
             link: community-evaluation
+      - title: "Church Leader Check"
+        sections:
+          - title: "Qualifications for Accuracy Checkers"
+            link: church-leader-check
+          - title: "Checking the Translation for Accuracy"
+            link: accuracy-check
       - title: "Affirmation of Accuracy and Community Acceptance"
         link: good
       - title: "Validation Checking"
@@ -52,39 +53,38 @@ sections:
             link: vol2-things-to-check
           - title: "Questions for Validation Checking"
             link: level3-questions
+          - title: "Back Translation"
+            link: vol2-backtranslation
+            sections:
+              - title: "The Purpose of the Back Translation"
+                link: vol2-backtranslation-purpose
+              - title: "The Back Translator"
+                link: vol2-backtranslation-who
+              - title: "Kinds of Back Translations"
+                link: vol2-backtranslation-kinds
+              - title: "Kinds of Written Back Translations"
+                link: vol2-backtranslation-written
+              - title: "Guidelines for Creating a Good Back Translation"
+                link: vol2-backtranslation-guidelines
           - title: "Validation Approval"
             link: level3-approval
-  - title: "Formatting and Publishing"
-    sections:
-      - title: "How to Check for Good Formatting"
-        link: formatting
-      - title: "Appropriate Alphabet"
-        link: alphabet
-      - title: "Consistent Spelling"
-        link: spelling
-      - title: "Consistent Punctuation"
-        link: punctuation
-      - title: "Complete Translation"
-        link: complete
-      - title: "Complete Versification"
-        link: verses
-      - title: "Section Headings"
-        link: headings  
-      - title: "Publishing"
-        link: publishing
-  - title: "Back Translation"
-    link: vol2-backtranslation
-    sections:
-      - title: "The Purpose of the Back Translation"
-        link: vol2-backtranslation-purpose
-      - title: "The Back Translator"
-        link: vol2-backtranslation-who
-      - title: "Kinds of Back Translations"
-        link: vol2-backtranslation-kinds
+      - title: "Formatting and Publishing"
         sections:
-          - title: "Kinds of Written Back Translations"
-            link: vol2-backtranslation-written
-          - title: "Guidelines for Creating a Good Back Translation"
-            link: vol2-backtranslation-guidelines
-  - title: "Self-Assessment Rubric"
-    link: self-assessment
+          - title: "How to Check for Good Formatting"
+            link: formatting
+          - title: "Appropriate Alphabet"
+            link: alphabet
+          - title: "Consistent Spelling"
+            link: spelling
+          - title: "Consistent Punctuation"
+            link: punctuation
+          - title: "Complete Translation"
+            link: complete
+          - title: "Complete Versification"
+            link: verses
+          - title: "Section Headings"
+            link: headings  
+          - title: "Publishing"
+            link: publishing
+          - title: "Self-Assessment Rubric"
+            link: self-assessment
