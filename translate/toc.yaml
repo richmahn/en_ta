@@ -72,8 +72,6 @@ sections:
             link: translate-tform
   - title: "Before Translating"
     sections:
-      - title: "First Draft"
-        link: first-draft
       - title: "Choosing a Translation Team"
         link: choose-team
         sections:
@@ -99,6 +97,8 @@ sections:
         link: file-formats
   - title: "How to Start Translating"
     sections:
+      - title: "First Draft"
+        link: first-draft
       - title: "Help with Translating"
         link: translate-help
   - title: "Unlocked Bible Text"
