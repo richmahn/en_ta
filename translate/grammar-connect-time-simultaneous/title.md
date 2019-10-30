@@ -1,1 +1,1 @@
-Connect - Words and Phrases
+Connect - Simultaneous Time Relationship
