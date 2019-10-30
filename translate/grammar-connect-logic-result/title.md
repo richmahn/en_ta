@@ -1,1 +1,1 @@
-Connect - Reason-Result Relationship
+Connect - Reason-and-Result Relationship

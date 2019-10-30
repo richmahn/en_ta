@@ -1,1 +1,1 @@
-Setting Up translationCore
+Setting Up translationCore®

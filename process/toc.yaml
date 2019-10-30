@@ -1,16 +1,16 @@
 title: "Table of Contents"
 sections:
-  - title: "1. Getting Started"
+  - title: "Step 1: Getting Started"
     sections:
       - title: "Introduction to the Process Manual"
         link: process-manual
 
-  - title: "2. Setting Up a Translation Team"
+  - title: "Step 2: Setting Up a Translation Team"
     sections:
       - title: "Setting Up A Translation Team"
         link: setup-team
 
-  - title: "3. Translating"
+  - title: "Step 3: Translating"
     sections:
       - title: "Training Before Translation Begins"
         link: pretranslation-training
@@ -21,19 +21,19 @@ sections:
       - title: "Translation Overview"
         link: translation-overview
 
-  - title: "4. Checking"
+  - title: "Step 4: Checking"
     sections:
       - title: "Training Before Checking Begins"
         link: prechecking-training
       - title: "Setting Up translationCore"
         link: setup-tc
 
-  - title: "5. Publishing"
+  - title: "Step 5: Publishing"
     sections:
       - title: "Introduction to Publishing"
         link: intro-publishing
 
-  - title: "6. Distributing"
+  - title: "Step 6: Distributing"
     sections:
       - title: "Introduction to Distribution"
         link: intro-share

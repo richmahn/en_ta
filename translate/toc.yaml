@@ -376,21 +376,21 @@ sections:
             link: figs-exmetaphor
           - title: "Biblical Imagery - Complex Metaphors"
             link: figs-cometaphor
-          - title: "Common Metaphors in the Bible"
+          - title: "Biblical Imagery – Common Metaphors in the Bible"
             sections:
-              - title: "Biblical Imagery - Body Parts and Human Qualities"
+              - title: "Body Parts and Human Qualities"
                 link: bita-hq
-              - title: "Biblical Imagery - Human Behavior"
+              - title: "Human Behavior"
                 link: bita-humanbehavior
-              - title: "Biblical Imagery - Natural Phenomena"
+              - title: "Natural Phenomena"
                 link: bita-phenom
-              - title: "Biblical Imagery - Man-made Objects"
+              - title: "Man-made Objects"
                 link: bita-manmade
-              - title: "Biblical Imagery - Farming"
+              - title: "Farming"
                 link: bita-farming
-              - title: "Biblical Imagery - Animals"
+              - title: "Animals"
                 link: bita-animals
-              - title: "Biblical Imagery - Plants"
+              - title: "Plants"
                 link: bita-plants
           - title: "Biblical Imagery - Cultural Models"
             link: bita-part3
