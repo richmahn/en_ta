@@ -1,1 +1,1 @@
-How do I do a Translation Notes Check?
+How do I do a translationNotes check?
