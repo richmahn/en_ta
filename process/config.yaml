@@ -20,7 +20,6 @@ prechecking-training:
   recommended:
     - intro-check
     - goal-checking
-    - required-checking
   dependencies:
     - pretranslation-training
 pretranslation-training:

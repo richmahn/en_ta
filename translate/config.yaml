@@ -62,7 +62,7 @@ figs-euphemism:
 figs-events:
   recommended:
     - writing-background
-    - writing-connectingwords
+    - grammar-connect-words-phrases
     - writing-newevent
     - translate-versebridge
   dependencies:
@@ -927,7 +927,7 @@ writing-apocalypticwriting:
     - writing-symlanguage
 writing-background:
   recommended:
-    - writing-connectingwords
+    - grammar-connect-words-phrases
     - writing-newevent
   dependencies:
     - figs-events
@@ -952,7 +952,7 @@ writing-endofstory:
 writing-intro:
   recommended:
     - writing-background
-    - writing-connectingwords
+    - grammar-connect-words-phrases
     - writing-newevent
     - writing-participants
     - figs-events
