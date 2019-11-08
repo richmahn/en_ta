@@ -77,6 +77,8 @@ sections:
         sections:
           - title: "Translator Qualifications"
             link: qualifications
+      - title: "Choosing a Translation Style"
+        link: choose-style
       - title: "Choosing What to Translate"
         link: translation-difficulty
       - title: "Choosing a Source Text"
