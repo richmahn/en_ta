@@ -1,1 +1,1 @@
-What is a metaphor and how can I translate a sentence that has one?
+What is a metaphor and how can I translate a Bible passage that has one?
