@@ -103,7 +103,7 @@ sections:
         link: first-draft
       - title: "Help with Translating"
         link: translate-help
-  - title: "Unlocked Bible Text"
+  - title: "The Bible Text"
     sections:
       - title: "The Original and Source Languages"
         link: translate-original
