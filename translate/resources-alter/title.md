@@ -1,1 +1,1 @@
-Notes with Alternate Translations (AT)
+Notes with Alternate Translations 
