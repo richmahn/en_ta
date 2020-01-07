@@ -1,1 +1,1 @@
-What do I look for in a Validation check?
+What are questions that a Quality Checker should ask about a translation?
