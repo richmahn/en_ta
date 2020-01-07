@@ -1,1 +1,1 @@
-Questions for Validation Checking
+Questions for Quality Checkers
