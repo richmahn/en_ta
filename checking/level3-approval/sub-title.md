@@ -1,1 +1,1 @@
-How can I affirm a translation after Validation Checking?
+How can I communicate my evaluation of a translation to the Translation Committee?
