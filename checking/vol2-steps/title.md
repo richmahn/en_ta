@@ -1,1 +1,1 @@
-Steps for Validation Checking
+Steps for Quality Checkers
