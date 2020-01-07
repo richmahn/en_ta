@@ -1,1 +1,1 @@
-What are the steps I should follow to check a translation at the Validation stage?
+What are the steps I should follow to check a translation as a Quality Checker?
