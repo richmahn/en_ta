@@ -1,1 +1,1 @@
-How do I use the Alignment Tool for Validation Checking?
+How do I use the Alignment Tool in translationCore to do Alignment Checking?
