@@ -21,6 +21,7 @@ alignment-tool:
     - vol2-things-to-check
   dependencies: 
     - vol2-steps
+    - guidelines-accurate
 alphabet:
   recommended:
     - spelling
@@ -71,7 +72,6 @@ formatting:
     - punctuation
   dependencies:
     - vol2-things-to-check
-    - level3-approval
 goal-checking:
   recommended:
     - intro-checking
@@ -82,7 +82,6 @@ goal-checking:
 good:
   recommended:
     - self-assessment
-    - level3
   dependencies:
     - complete
     - community-evaluation
@@ -119,18 +118,10 @@ language-community-check:
     - community-evaluation
   dependencies:
     - accuracy-check
-level3:
-  recommended:
-    - vol2-steps
-    - level3-questions
-  dependencies:
-    - accuracy-check
-    - good
 level3-approval:
   recommended:
     - formatting
   dependencies:
-    - level3
     - level3-questions
 level3-questions:
   recommended:
@@ -138,7 +129,6 @@ level3-questions:
     - level3-approval
     - self-assessment
   dependencies:
-    - level3
     - vol2-things-to-check
 natural:
   recommended:
@@ -181,11 +171,10 @@ self-assessment:
     - clear
     - natural
     - level3-questions
-    - level3-approval
   dependencies:
     - complete
     - church-leader-check
-    - level3
+    - alignment-tool
 spelling:
   recommended:
     - punctuation
@@ -245,8 +234,9 @@ vol2-backtranslation-written:
 vol2-steps:
   recommended:
     - alignment-tool
+    - vol2-things-to-check
   dependencies:
-    - level3
+    - good
 vol2-things-to-check:
   recommended:
     - level3-questions
