@@ -1,1 +1,1 @@
-Validating with the Alignment Tool in tC
+Alignment Checking
