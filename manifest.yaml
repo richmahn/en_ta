@@ -22,12 +22,12 @@ dublin_core:
   description: 'A modular handbook that provides a condensed explanation of Bible translation and checking principles that the global Church has implicitly affirmed define trustworthy translations. It enables translators to learn how to create trustworthy translations of the Bible in their own language.'
   format: 'text/markdown'
   identifier: 'ta'
-  issued: '2020-03-25'
+  issued: '2020-06-09'
   language:
     identifier: 'en'
     title: 'English'
     direction: 'ltr'
-  modified: '2020-03-25'
+  modified: '2020-06-09'
   publisher: 'unfoldingWord®'
   relation:
     - 'en/ust'
@@ -39,11 +39,11 @@ dublin_core:
     -
       identifier: 'ta'
       language: 'en'
-      version: '11'
+      version: '12'
   subject: 'Translation Academy'
   title: 'unfoldingWord® Translation Academy'
   type: 'man'
-  version: '12'
+  version: '13'
 
 checking:
   checking_entity:
