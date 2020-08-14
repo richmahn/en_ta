@@ -45,7 +45,7 @@ If you are translating online, please fork the [Door43-Catalog/en_ta](https://gi
 
 You are free to add additional modules. In order for the new modules to be included, all of the following conditions need to be satisfied:
 
-* You must create a directory in one of the manual directories (like the translate directory) that has the short name of the module you want to write.  For example, to create a new module on “testing” in the Translation Manual, you will want to put the file in “translate/testing/01.md”.
+* You must create a directory in one of the manual directories (like the translate directory) that has the short name of the module you want to write.  For example, to create a new module on “testing” in the Translation Manual, you will want to put the file in “translate/testing/01.md.”
 * The file must be included in the table of contents, `toc.yaml` for the appropriate manual.
 * The value of the slug in the `toc.yaml` file and the directory (without the extension) must be the same as the directory name (`testing` in this example).
 * The slug must be unique, and not used in any of the other manuals. This is a requirement so that it is possible to create unambiguous links to each module.
