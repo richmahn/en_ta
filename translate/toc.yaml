@@ -320,8 +320,6 @@ sections:
             link: translate-ordinal
           - title: "Fractions"
             link: translate-fraction
-          - title: "Decimal Numbers"
-            link: translate-decimal
           - title: "Symbolic Action"
             link: translate-symaction
       - title: "Figures of Speech"
