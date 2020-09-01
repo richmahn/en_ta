@@ -30,6 +30,10 @@ figs-apostrophe:
   recommended: []
   dependencies:
     - figs-intro
+figs-aside:
+  recommended: []
+  dependencies:
+    - figs-intro
 figs-declarative:
   recommended: []
   dependencies:

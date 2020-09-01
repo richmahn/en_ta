@@ -328,6 +328,8 @@ sections:
             link: figs-intro
           - title: "Apostrophe"
             link: figs-apostrophe
+          - title: "Aside"
+            link: figs-aside  
           - title: "Doublet"
             link: figs-doublet
           - title: "Euphemism"
