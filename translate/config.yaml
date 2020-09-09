@@ -164,6 +164,10 @@ figs-irony:
     - figs-litotes
   dependencies:
     - figs-intro
+figs-litany
+  recommended: []
+  dependencies:
+    - figs-intro
 figs-litotes:
   recommended: []
   dependencies:
