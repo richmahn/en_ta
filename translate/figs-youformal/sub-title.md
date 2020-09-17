@@ -1,1 +1,1 @@
-What are formal and informal “you”?
+What are the formal and informal “you”?

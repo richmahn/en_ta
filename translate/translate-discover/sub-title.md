@@ -1,1 +1,1 @@
-How Do I Discover the Meaning of the Text?
+How do I discover the meaning of the text?

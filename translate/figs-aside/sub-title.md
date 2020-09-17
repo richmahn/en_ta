@@ -1,1 +1,1 @@
-What is the figure of speech called aside?
+What is the figure of speech called an "aside"?

@@ -1,1 +1,1 @@
-What are Meaning Based Translations?
+What are meaning-based translations?

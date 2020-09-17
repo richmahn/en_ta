@@ -1,1 +1,1 @@
-What is the Goal of Checking?
+What is the goal of checking?

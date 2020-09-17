@@ -1,1 +1,1 @@
-What is the figure of speech called apostrophe?
+What is the figure of speech called an apostrophe?

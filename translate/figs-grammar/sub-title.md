@@ -1,1 +1,1 @@
-What is some basic information about English Grammar?
+What is some basic information about English grammar?

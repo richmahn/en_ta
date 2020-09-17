@@ -1,1 +1,1 @@
-How will I know if the translationNote is about a Figure of Speech?
+How will I know if the translationNote is about a figure of speech?

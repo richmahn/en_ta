@@ -1,1 +1,1 @@
-What translating decision should I make when I see “Alternate Translation:” in the notes?
+What translating decision should I make when I see “alternate translation:” in the notes?

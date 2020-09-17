@@ -1,1 +1,1 @@
-How do connecting words work to connect parts of the text in different ways?
+How do connecting words work to join parts of the text in different ways?

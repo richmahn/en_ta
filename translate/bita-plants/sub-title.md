@@ -1,1 +1,1 @@
-What are some examples of plants that are used as images in the Bible?
+What are some examples of how plants are used as images in the Bible?

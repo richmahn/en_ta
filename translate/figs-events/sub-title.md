@@ -1,1 +1,1 @@
-Why are the events not listed in the order they happened, and how do I translate them?
+Why are some events not listed in the order they happened, and how do I translate them?

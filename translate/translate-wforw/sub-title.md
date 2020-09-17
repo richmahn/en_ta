@@ -1,1 +1,1 @@
-Why should I not translate using word for word substitution?
+Why should I not translate using word-for-word substitution?

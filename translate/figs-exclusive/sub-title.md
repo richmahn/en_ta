@@ -1,1 +1,1 @@
-What is exclusive and inclusive “we”?
+What are the exclusive and inclusive forms of “we”?
