@@ -1,1 +1,1 @@
-Distinguishing versus Informing or Reminding
+Distinguishing Versus Informing or Reminding
